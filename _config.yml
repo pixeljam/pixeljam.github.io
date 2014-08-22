@@ -1,0 +1,52 @@
+# Site settings
+title: Pixeljam Press Kit
+type: presskit
+email: alex@pixeljam.com
+description: "Pixeljam Inc. Press Kit - Here you'll find company history, game release listings, and press-usable assets including: images, logos, icons, videos, et cetera."
+baseurl: "//pj.l/presskit/_site"
+# baseurl: "//pman.mindevo.com/press"
+url: "http://pixeljam.com"
+twitter_username: pixeljamgames
+github_username:  adbakke
+company: "Pixeljam Games"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+kramdown:
+  auto_ids: false
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Pixeljam
+  avatar: bio-photo.jpg
+  bio: "Low Resolution Entertainment for the High Resolution People of Earth"
+  email: contact@pixeljam.com
+  disqus-shortname:
+  twitter: pixejamgames
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["assets", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

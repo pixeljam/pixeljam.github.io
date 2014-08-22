@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for post in site.tags.company %}
+
+    <span class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.content }}</span>
+
+{% endfor %}

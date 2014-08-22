@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<game>
+
+	<title>Glorkian Warrior: The Trials Of Glork</title>
+
+	<release-date>March 13, 2014</release-date>
+
+	<website>http://www.glorkianwarrior.com</website>
+
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+
+
+	<platforms>
+
+		<platform>
+
+			<name>iOS</name>
+
+			<link>http://itunes.apple.com/app/id816399139</link>
+
+		</platform>
+
+
+	</platforms>
+
+	
+
+	<prices>
+
+		<price>
+
+			<currency>USD</currency>
+
+			<value>2.99, no IAP</value>
+
+		</price>
+
+	</prices>
+
+
+
+	<description>
+
+Glorkian Warrior: The Trials of Glork is a collaboration between acclaimed comic book artist James Kochalka and indie game studio Pixeljam.  
+It's a unique hybrid of Galaga-style shoot 'em up, simple platforming action and Saturday morning cartoon.  Help Glorkian Warrior defend his asteroid against an endless onslaught of alien invaders, and be prepared for somewhat unexpected results...
+	</description>
+
+	
+
+	<history>
+	
+	In early 2010, in an age before crowdfunding was a universally recognized concept, Pixeljam successfuly ran a kickstarter campaign with James Kochalka to raise funds for an idea called Glorkian Warrior.  After years of experiments, iterations and trials, we are proud to introduce the Glokrian universe to the world in compact, mobile-friendly comedic endless shooter.
+
+
+	</history>
+
+
+
+	<features>
+
+		<feature>Endearing characters and all-ages humor.</feature>
+
+		<feature>Procedurally generated ariel invader flight patterns and formations of the Galaxian persuasion.</feature>
+
+		<feature>A wicked arsenal of weapons and powerups, including tennis balls and the legendary "Flarf Gun".</feature>
+
+		<feature>A simple and refreshing mobile presentation : No IAP, no complicated leveling-up systems, just good old fashioned entertainment like your great grandpa used to enjoy.</feature>
+
+		<feature>YES</feature>
+
+	</features>
+
+
+	<trailers>
+
+		<trailer>
+
+			<name>Launch Trailer</name>
+
+			<youtube>Qsvd3YIk8GA</youtube>
+
+			<!-- <vimeo>52481665</vimeo> -->
+
+		</trailer>
+
+		<trailer>
+
+			<name>Teaser Trailer</name>
+
+			<youtube>Ka3OZNMI5Vs</youtube>
+
+			<!-- <vimeo>52481665</vimeo> -->
+
+		</trailer>
+
+	</trailers>
+
+	
+
+	<awards>
+
+		
+
+	</awards>
+
+	
+
+	<quotes>
+
+		
+
+	</quotes>
+
+	
+
+	<additionals>
+
+
+	</additionals>
+
+	
+
+	<credits>
+
+		<credit>
+
+			<person>James Kochalka</person>
+
+			<role>Concept, Character Design, Writing</role>
+
+		</credit>
+
+		<credit>
+
+			<person>Rich Grillotti</person>
+
+			<role>Design</role>
+
+		</credit>
+
+		<credit>
+
+			<person>Miles Tilmann</person>
+
+			<role>Coding, Design</role>
+
+		</credit>
+
+		<credit>
+
+			<person>Mark DeNardo</person>
+
+			<role>Music</role>
+
+		</credit>
+		
+		<credit>
+
+			<person>John Davies</person>
+
+			<role>Sound Effects</role>
+
+		</credit>
+
+	</credits>
+
+</game>

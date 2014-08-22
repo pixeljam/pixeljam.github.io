@@ -1,0 +1,69 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ "/css/reset.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/index.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/presskit.css" | prepend: site.baseurl }}">
+  <!-- <link rel="stylesheet" href="{{ "/css/base.css" | prepend: site.baseurl }}"> -->
+  <link rel="stylesheet" href="{{ "/css/magnific-popup.css" | prepend: site.baseurl }}">
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="{{ "/js/jquery.fitvids.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/jquery.magnific-popup.js" | prepend: site.baseurl }}"></script>
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
+  <style>
+    #pressy:hover .p-brackets{fill:#23D2FF;}
+    #pressy:hover .p-text{fill:#FF68FE;}
+    #pressy:active .p-brackets{fill:#FF68FE;}
+    #pressy:active .p-text{fill:#23D2FF;}
+    #pressy:hover .d-brackets{fill:#23D2FF;}
+    #pressy:hover .d-text{fill:#FF68FE;}
+    #pressy:active .d-brackets{fill:#FF68FE;}
+    #pressy:active .d-text{fill:#23D2FF}
+    #pressy {height:100%;min-width:120px;width:100%;}
+  {% if page.colors %}
+    {% if page.colors.bg-gradient-top %}
+      body {
+        background-color: {{page.colors.bg-gradient-bottom}};
+        background: linear-gradient(to bottom,{{page.colors.bg-gradient-top}} 0px,{{page.colors.bg-gradient-bottom}} 220px,{{page.colors.bg-gradient-bottom}} 30000px);
+        background-attachment: scroll;
+        background-size: 100% 900%;
+      }
+    {% endif %}
+    {% if page.colors.title %}
+      .game-presskit h1 {color: {{page.colors.title}} }
+    {% endif %}
+    {% if page.colors.separator %}
+      .game-presskit h2:before {
+        border-top: 2px solid {{page.colors.separator}};
+      }
+      .game-presskit h2:after {
+          border-bottom: 2px solid {{page.colors.separator}};
+      }
+      #potatoman:before,#dino-run:before {
+        border-bottom: 1px solid {{page.colors.separator}};
+      }
+    {% endif %}
+    {% if page.colors.subhead %}
+      .game-presskit h2 {color: {{page.colors.subhead}}}
+    {% endif %}
+    {% if page.colors.nav %}
+        #markdown-toc li {
+          background-color: {{page.colors.nav}};
+        }
+    {% endif %}
+    {% if page.colors.overview %}
+        .toc h3 {
+          background-color: {{page.colors.overview}};
+        }
+    {% endif %}
+  {% endif %}
+  </style>
+</head>

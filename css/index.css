@@ -1,0 +1,621 @@
+@font-face {
+    font-family: '04b11regular';
+    src: url('04b_11__-webfont.eot');
+    src: url('04b_11__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('04b_11__-webfont.woff') format('woff'),
+         url('04b_11__-webfont.ttf') format('truetype'),
+         url('04b_11__-webfont.svg#04b11regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+html{font-size:20px;height:100%;min-height:100%;}
+body{background-color:black;font-family:'Roboto Condensed';font-weight:400;color:white;margin:0;}
+li{list-style:none;}
+h1,h2,h3,h4 {font-family:'04b11regular','Roboto Condensed',sans-serif;line-height:1.3em;text-shadow: 0 2px 0 rgba(0, 0, 0, 1);}
+
+h4 a {color:#eeeeff;text-shadow:none;}
+.pixel {font-family:'04b11regular','Roboto Condensed',sans-serif;text-shadow: 0 3px 0 rgba(0, 0, 0, 1);}
+
+/**************************
+******** New nav Area  *
+***************************/
+nav {
+  background-color:rgba(0, 0, 0,.5);
+  color:white;
+  left:0;
+  margin:0;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:1000;
+}
+nav ul {
+  height:2.8em;
+  position:relative;
+}
+nav ul li {
+  display:inline-block;
+}
+
+.logoli {
+  margin:5px 0 0 10px;
+  max-height: 2.8em;
+  width:50%;
+}
+.pressli{
+  float:right;
+  margin:.8em .2em 0 0;
+  width: 15%;
+}
+.devli{
+  float:right;
+  margin:.8em .2em 0 0;
+  width: 13.5%;
+}
+
+.socialli{float:right;width: 14%;}
+
+nav .social {display:inline-flex;flex-flow:row nowrap;justify-content:space-around;width:100%;}
+.socialli ul li{margin: auto 4%;}
+
+.stwit,.sfb,.semail,.stumblr,.sgplus,.syoutube{
+  background-image: url(../images/site/siteLogos.png);
+  background-size: 32px 338px;
+  background-repeat: no-repeat;
+  display: block;
+  height: 30px;
+  width: 32px;
+  text-decoration: none;}
+.stwit{background-position: 0 -38px;}
+.sfb {background-position:0 -77px;}
+.semail {background-position:0 -262px;}
+.stumblr {background-position:0 0;}
+.sgplus {background-position: 0px -114px;}
+.syoutube {background-position: 0px -150px;}
+.syoutube {height: 25px;margin-bottom: 3px;}
+
+
+/*Media Queries Section*/
+@media(max-width:875px){
+  .logoli{margin:.5em 0 0 .5em;width:43%;}
+  .socialli {width: 17%;}
+  .pressli {margin:.8em 0 0;width:19%;}
+  .devli {width:17%;}
+}
+
+
+@media (max-device-width:22.5em) and (orientation:portrait), (max-device-width:40em) and (orientation:landscape) {
+  nav{position:absolute;}
+}
+
+
+
+
+/* ************************
+******** Main Game Area  *
+***************************/
+.main{
+  background: white url('../images/site/bg-glork-3.png') no-repeat fixed 0 0;
+  background-position:-5em 0;
+  border-bottom:5px solid black;
+  display:inline-block;
+  height: 35em;
+  max-width:100%;
+  padding-top:2.8em;
+  position: relative;
+  width: 100%;
+  z-index: 3;
+}
+
+.maingame {
+  align-items:center;
+  display:flex;
+  flex-flow:column nowrap;
+  float:right;
+  height: 30.5em;
+  justify-content:space-between;
+  position:relative;
+  right:5%;
+  top: 0;
+  width: 48%;
+}
+.maingame img {margin:2%;}
+.gametitle{margin-bottom:.2em;}
+.game1title{max-height:115px;}
+.thevideo {width:100%;max-width:500px;margin:0 0 1em;}
+
+.buyglork {
+  margin:2% auto 0;
+  max-width:391px;
+  width:73%;
+  position:absolute;
+  bottom:2em;
+  left:25%;
+}
+
+.maingame-info {
+  float:left;
+  height:100%;
+  padding-bottom:4.5em;
+  position:relative;
+  width:45%;
+}
+.maingame .screenies {margin:1em auto 0;width:75%;}
+.maingame .screenies .lbox img{margin:auto 1%;max-width:200px;width:30%;}
+.maingame blockquote {font-size:1.9vw;font-style: italic;font-weight:700;text-align:center;
+  margin:0;padding:0;width:75%;
+  line-height: 1.3;position: relative;color: #fff;
+  text-shadow: 0px 3px 0px rgba(0, 0, 0, 1);
+}
+.maingame blockquote cite {font-size:1.3vw;margin-left:10%;}
+.maingame blockquote cite a {color:ghostwhite;-webkit-text-stroke:0;}
+blockquote:before, blockquote:after, q:before, q:after {content: "";}
+blockquote cite:before {content: "\2014 \2009";}
+
+/**********Big Ass Screen Size Above 1200px Wide*********/
+@media (min-width:1200px){
+  .main{height:40em;background-position:0 0;padding-top:3.5em;}
+  .maingame{height:35em;margin-bottom:.5em;padding-top:.2em;}.maingame img{margin:.5%;}.maingame blockquote{width:84%;font-size:1.7vw;}
+  .maingame-info{width:45%;}
+  .maingame .screenies{width:65%;}
+  .gametitle {margin-bottom:.5em;}
+}
+/*************900 Small Monitor Size********************/
+@media (max-width:875px){
+  .main {height:38em;background-position:-10em 0;margin:0 0;}
+  .maingame {float:none;height:29.5em;justify-content:flex-start;margin:.5em auto auto 40%;width:60%;}
+  .maingame button{font-size:2.5vw;height:2.5em;}
+  .maingame img {margin:0 auto;}
+  .maingame-info {float:none;height:auto;margin:0 auto auto 29%;width:60%;}
+  .thevideo{margin:.25em 0 .5em;}
+  .maingame blockquote {font-size:2.2vw;width:90%;}
+  .buyglork {bottom:0;margin:0 auto;}
+  .buyglork button {width:95%;}
+}
+/******************** 580 Tablet Size******************/
+@media (max-width:600px){
+/*nav stuff*/
+  nav ul{height:4.8em;}
+  .logoli  {margin:2px 0 0; text-align:center;width:100%;}
+  .pressli {
+    margin:.3em .5em 0 0;
+    width:45%;
+  }
+  .devli {
+    margin:.3em 1.5em 0 0;
+    width:41%;
+  }
+  .socialli{margin:0 auto;width:100%;}
+  .social {width: 60%;}
+  .socialli ul li {margin:0;}
+  .social {height:auto;}
+/*main game area*/
+  .main {height:40.5em;background-position:right 0em;margin:0 0;padding-top:6.5em;}
+  .maingame {width:90%;height:28em;margin:0 auto;right:0;}
+  .maingame blockquote {font-size:3.5vw;margin:.5em auto .5em;}.maingame blockquote cite{font-size:2.7vw;}
+  .maingame .screenies {margin:0 auto .25em;width:100%;}
+  .maingame-info button{height:3.5em;width:100%;margin:0 auto;font-size:3.5vw;}
+  .maingame-info{
+    width:50%;
+    margin:0 auto;
+    left:0;}
+  .thevideo{margin:.25em 0 1em;}
+  .buyglork {left:0;width:100%;}
+}
+/***************370 Portrait Small Phone Size**********/
+@media (max-width:370px){
+  .main{height:32em;padding-top:5em;}
+  .maingame{width:100%;right:0;margin:0 auto;height:23em;}
+  .maingame blockquote{
+    font-size:5vw;
+    margin:1em 0;
+    padding:0 .25em;
+    width:100%;
+    }
+  .maingame blockquote cite{font-size:3.8vw;margin:0;}
+  .maingame-info{width:95%;padding-bottom:3.5em;}
+  .thevideo{margin:0;width:95%;}
+  .game-title{margin:.5em 0;}
+}
+
+
+
+/* **********************************
+****  General Games 2/3 Styles Set  *
+*************************************/
+.dark {opacity: .3;}
+.game{
+  border-bottom:10px solid black;
+  display:inline-block;
+  height: 35.5em;
+  max-width:100%;
+  padding: 1em 2% 0;
+  width: 100%;
+}
+.game-box {
+  display:inline-block;
+  height:35%;
+  padding:0;
+  text-align:center;
+  width:49%;
+}
+.game-flex{height:50%;padding: 0;text-align:center;width: 50%;}
+.game-logo img{max-width:342px;width:100%;}.game-desc{margin-top:-.5em;line-height:normal;}
+.game-logo img {margin-bottom:3em;}
+.game-buy{margin-top:1em;}
+.game-vid {margin-top:1em;}
+.thevideo{margin:0 auto 1em;}
+.game-desc h2{font-size:2.3vw;}.game-desc h3{font-size:1.8vw;margin-bottom:1em;}
+.game-desc p{
+  font-size:1.7vw;
+  color:white;
+  width:90%;
+  margin:0 auto;
+  text-shadow: 0px 2px 0px rgba(0, 0, 0, 1);
+}
+.game-desc p:last-child {margin-top:1em;}
+.buy{
+  align-self:center;
+  /*border-radius: 25px;*/
+  display: block;
+  height: auto;
+  line-height: 1.38;
+  margin:auto;
+  width: 70%;
+}
+/* ***********************************
+********  Potatoman Specific Stlyes  *
+**************************************/
+#game-potatoman{background: rgb(0,51,16) url('../images/site/bg-potatoman.png') no-repeat;background-position:-2em center;}
+#game-potatoman .game-desc h2{color:#47d0ff;}#game-potatoman .game-desc h3{color:#b0f554;}
+.potato-humble {
+  background-position: -52px 0;
+  background: #FFF url('../images/site/featureBG.png');
+  margin: 20px auto;
+  max-width:690px;
+  padding: 70px;
+  position: relative;
+  width:auto;
+}
+.potato-options{
+  display:block;position:relative;
+  background-color:rgb(45,111,4);
+  /*background:url('../images/site/buyPotatoBG.png') no-repeat,url('../images/site/grass.png') repeat-y;*/
+  background:url('../images/site/BG_Texture.png');
+  max-width:800px;
+  height:auto;
+  margin:auto;
+ }
+.potato-options p{margin:auto; padding:.5em 3.5em;text-align:center;}
+.potato-options p iframe{padding-left:2.5em;}
+.buypotato {background:none;border:none;margin: 15% auto 0;width:80%;}
+.second-popup-link {
+  color:lightblue;
+  text-transform:uppercase;
+  font-size:1.5em;
+  text-align:center
+}
+
+/* **********************************
+********  Dino Run Specific Styles  *
+*************************************/
+#game-dinorun{background-color: rgb(0, 1, 82);background:url('../images/site/bg-dinorun.png') no-repeat -19em center;}
+#game-dinorun .game-box {height:26%;}
+#game-dinorun .game-logo {height:25%;}
+#game-dinorun .game-logo img {margin-bottom:5em;}
+#game-dinorun .game-desc {height:5%;margin-top:-2em;}
+#game-dinorun .game-logo h2 {color:rgb(255,255,255);}#game-dinorun .game-logo h3{color:#7DFF00;}#game-dinorun .game-logo p {color:rgba(255,255,255,.9);} #game-dinorun .game-logo p:last-child {margin-top:.5em;}
+#game-dinorun .game-buy {
+  margin: 0 auto;
+}
+#game-dinorun .game-logo img {max-width:700px;}
+.buydino {
+  background:none;
+  border:none;
+}
+.dino-humble {
+  background: #FFF url('../images/site/featureBG.png');
+  background-position: -52px -463px;
+  margin: 20px auto;
+  max-width:690px;
+  padding: 62px;
+  position: relative;
+  width:auto;
+}
+#game-dinorun .game-logo p::last-child {margin-top:1em;}
+#game-dinorun .game-logo p a {color:#ffea00;}
+#game-dinorun .game-vid {height:65%;}
+.dino-options{
+  display:block;position:relative;
+  background-color:rgb(45,111,4);
+  background:url('../images/site/BG_Texture-red.png');
+  max-width:800px;
+  height:auto;
+  margin:auto;
+ }
+.dino-options p{margin:auto; padding:.5em 3.5em;text-align:center;}
+.dino-options p iframe{padding-left:2.5em;}
+.dino-options a {color:white;}
+/* *********************************
+********  Rest of the Games Styles  *
+*************************************/
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.game-allgames{
+  background-color:#ff5000;
+  background:url('../images/site/bg-allgames.png') repeat;
+  display: flex;
+  flex-flow: row wrap;
+  height:auto;
+  justify-content: space-around;
+  padding:3em 0;
+}
+.game-grid-item{
+  background-color:rgba(60,30,10,.5);
+  background-size:600px 300px;
+  float:left;
+  height:300px;
+  margin:.5em;
+  position:relative;
+  width:300px;
+}
+.game-grid-item:hover{border:3px solid rgba(175,150,255,1)}
+.game-grid-item p {
+  position:absolute;
+  bottom:1em;
+  margin:auto;
+  opacity:0;
+  text-align:center;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 1);
+  width:100%;
+
+}
+.game-grid-item:hover p {
+  opacity:1;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:.3s;
+  -moz-animation-duration:.3s;
+  animation-duration:.3s;
+}
+
+
+.gamma{background-image:url(../images/site/games/game-gammabros.png);background-position:-150px 0}
+.ratmazenm{background-image:url(../images/site/games/game-ratmazenightmare.png);background-position:-150px 0}
+.ratmaze1{background-image:url(../images/site/games/game-ratmaze1.png);background-position:-150px 0}
+.ratmaze2{background-image:url(../images/site/games/game-ratmaze2.png);background-position:-150px 0}
+.snowball{background-image:url(../images/site/games/game-snowball.png);background-position:-150px 0}
+.snowball p {color:black;}
+.mountainm1{background-image:url(../images/site/games/game-mountainmaniac.png);background-position:-150px 0}
+.mountainm2{background-image:url(../images/site/games/game-mountainmaniacxmas.png);background-position:-150px 0}
+.captcomm{background-image:url(../images/site/games/game-captaincommander.png);background-position:-150px 0}
+.retrouni1{background-image:url(../images/site/games/game-retrounicorn.png);background-position:-150px 0}
+.retrouni1 p {bottom:0;color:white;text-align:bottom;text-shadow: 0 1px 0 rgba(0, 0, 0, 1);}
+.retrouni2{background-image:url(../images/site/games/game-retrounicornattack.png);background-position:-150px 0}
+.corpclimb{background-image:url(../images/site/games/game-corporateclimber.png);background-position:-150px 0}
+.ratmaze1 a,
+.ratmaze2 a,
+.snowball a,
+.mountainm1 a,
+.mountainm2 a,
+.captcomm a,
+.retrouni1 a,
+.retrouni2 a,
+.corpclimb a,
+.gamma a {display:block;height:100%;width:100%;}
+
+/* ************************
+********  Footer  *
+***************************/
+
+footer {
+background: rgba(0, 0, 0,.5) 0% bottom;
+/*background-image: url(../images/site/pixeljam-footer.svg);*/
+background-size: 100% auto;
+background-repeat: repeat-y;
+background-position: left top;
+padding:1em 0 3em;
+}
+.footerlogo {margin:auto 25% 1.5em;}
+.footbox {display:flex;flex-flow:row wrap;justify-content:space-around;}
+.footbox div {}
+.column1 ul li {display:inline-block;}
+.column2 {
+  padding:0.4em 6%;
+}
+.footbox h3 {font-size:1.3vw;}
+.footbox a,.footbox:visited {color:white;} .footbox a:hover {color:rgb(255, 104, 254);} .footbox a:active {color:rgb(35, 210, 255);}
+.footbox ul {margin:auto;}
+.column1 ul {text-align:center;}
+.column2 span {font-family:'04b11regular';font-size:1.5vw;}
+.column1 ul li a {
+     text-decoration: none;
+     display: block;
+     width: 100%;
+     height: 100%;
+}
+.emailbox {border-radius:5px;background-color:rgba(255,255,255,.3);color:white;margin:5px 10px 5px;padding:4px;}
+.emailsubmit {border-radius:5px;background-color:rgba(255,255,255,.1);color:white;padding:4px;}
+
+/**************/
+/*Extra Pages*/
+/*************/
+
+.notices {
+  height:400px;
+  padding:6em 3em 0;
+   background: -webkit-gradient(linear, left top, left bottom,
+  color-stop(0%,#42157b),
+  color-stop(20%,#42157b),
+  color-stop(20%,#9d2f9e),
+  color-stop(40%,#9d2f9e),
+  color-stop(40%,#d13fd2),
+  color-stop(60%,#d13fd2),
+  color-stop(60%,#f850fa),
+  color-stop(80%,#f850fa),
+  color-stop(80%,#ff6bff),
+  color-stop(100%,#ff6bff)
+  );
+  -webkit-animation:30s multi_rotate linear infinite;
+  text-align:center;
+}
+.notices h2 {margin:auto;max-width:900px;}
+.notices h4 {margin: 1em auto 0; max-width:900px;}
+
+@-webkit-keyframes multi_rotate {
+  0% {
+    -webkit-filter:hue-rotate(0deg);
+  }
+  100% {
+    -webkit-filter:hue-rotate(360deg);
+  }
+}
+
+
+/*********************Big Ass Screens*******************/
+@media (min-width:2000px) {.main,#game-potatoman,#game-dinorun,.game{background-size:cover;}.maingame .screenies .lbox img,,.buypotato {max-width:150px;}#pressme{max-height:135px;}
+.maingame blockquote {font-size:1.7rem;}
+footer{background-size:auto 100%;}
+}
+@media (min-width:1200px){
+  .buypotato {width:60%;}.buydino {width:60%;}
+  .game-logo h2{font-size:1.5vw;}.game-logo h3{font-size: 1.2vw}.game-desc p{font-size:1.3vw;}
+  #game-dinorun {background-position: right center}
+  #game-dinorun .game-buy {margin: 0 auto;}
+  #game-dinorun .game-buy {height:30%;}
+  #game-dinorun .game-desc {height:5%;}
+  #game-dinorun .buy {margin: 0 auto;}
+  footer{background-size:auto 64%;}
+  .footbox .column2 {padding:.4em 3% 0;}
+  .column2 span {font-size:1.2vw;}
+}
+/*************900 Small Monitor Size********************/
+@media (max-width:875px){
+  #game-potatoman {padding:0;}
+  .game-logo img {margin-bottom:3em;}
+  .game-vid {margin-top:2em;}
+  .game.game-allgames{height:auto;}
+  .game-logo h2{font-size: 2.5vw;}.game-logo h3{font-size:2vw;}.game-logo p{font-size: 2.1vw;}
+  .game-logo p {width:90%;}
+  .game-grid-item {background-position:center 0;margin:1em auto;max-width:600px;width:100%;}
+  #game-dinorun {background-position: -12em center}
+  #game-dinorun .game-logo {padding-top: 9%;}
+  .footbox {flex-flow:column;justify-content:space-between;align-items:center;}
+  .column1 {width:60%;}
+  .column3 {text-align:center;}
+  .footbox h3 {font-size:2vw;}
+  .footbox .footflex {margin:.3em 0;}
+  .notices h2 {font-size: 1.2em;} .notices h3 {font-size: 1em;}
+}
+/********************Landscape 800px********************/
+@media (max-width:40em) and (orientation:landscape) {
+  .game-logo{width:35%;}
+  .game-vid{width:60%;}
+  .game-flex{height:auto;}
+  .game-desc{margin-top:0; width:60%;}
+  .game-logo p{font-size:2.4vw;}
+  .game-buy{width:35%;}
+  .buy{height:10em;width:90%;}
+  #game-dinorun .game-buy{margin:0 auto;}
+}
+
+/******************** 580 Tablet Size******************/
+@media (max-width:600px){
+  .game{height:35.5em;padding-bottom:.3em;}.game.game-allgames{height:auto;}
+  .game-flex{height:auto;width:95%;margin:0 auto;}
+  .game-box {height:auto;width:90%;}
+  .game-logo{width:60%;}
+  .game-vid {width:100%;}.thevideo {margin:0 auto .5em;width:73%;}
+  .game-vid {margin-top:0;}
+  .game-buy,.game-desc{width:100%;}
+  .game-desc{margin:-1em auto;width:100%;}
+  .game-logo h2{font-size: 2.9vw;}.game-logo h3{font-size: 2.7vw;}.game-logo p{font-size: 2.5vw;}
+  .buy{margin:-.5em auto 0;width:50%;}
+  .potato-humble{padding:70px 0;}
+  #game-potatoman {
+    background-position: -5em center;
+    display:block;
+  }
+  .game-logo {
+    margin:auto;
+    width:100%;
+  }
+  .game-logo img {margin:auto;width:75%;}
+  #game-dinorun .game-logo {height:auto;margin-bottom:.5em;padding:0;}
+  #game-dinorun .game-desc {height:0;margin:0;}
+  #game-dinorun .game-buy {margin: 0 auto;}
+  #game-potatoman .game-vid {margin-top:0;}
+  #game-dinorun .game-vid {height:45%;}
+  #game-dinorun .game-logo img {margin-bottom: 1em;width:100%;}
+  .footflex {margin:0;padding:0;}
+  .game-grid-item {margin:.5em 0;}
+  .column2 span {font-size:5vw;}
+  .footbox h3 {font-size: 5vw;}
+  .column1 {width:90%;}
+  .column2 {padding:.4em 6%;width:75%;}
+  .notices h2 {font-size: 1em;margin-top:1em;}.notices h3 {font-size:.8em;}
+}
+
+/***************Itty Bitty Phone (iPhone)***************/
+@media (max-width:370px) {
+  .socialli {margin:.2em 0 0 0;}
+  .devli {margin: 0 0 0;width: 45%;}
+  .pressli {margin: 0 .7em 0 0;width: 49%;}
+  .buyglork {left: 0;width: 100%;}
+  .game-buy {margin-top:0.4em;}
+  .game{height:32em;}
+  .game.game-allgames{height:auto;}
+  .game-desc {margin: 0 auto;}.game-desc h2 {font-size: 5vw;}.game-desc h3 {font-size:4.8vw} .game-desc p {font-size:4vw}.game-vid{width:100%;}
+  .game-desc p:last-child {margin-top:0;}
+  .thevideo {width:100%;}
+  .thevideo {margin: 0 auto;}
+  .buy{font-size:4vw;width:80%;}
+  .game-logo h2{font-size:4.4vw;}.game-logo h3{font-size:4vw;}.game-logo p{font-size:3.5vw;width:100%;}
+  #game-dinorun .game-buy{margin:0 auto;}
+  .game #game-dinorun{height:32em;}
+  #game-potatoman {background-position: right center;}
+  .column2 span {font-size:5vw;}
+  .footbox .footflex {margin: 0em 0;width:100%;}
+  .footbox h3 {font-size: 5vw;}
+  .footbox .column2 {padding:.4em 0 .4em;}
+  .emailbox {margin:10px 0 10px 5px;padding:4px 1px 4px 0;}
+
+}
+
+
+
+/*JReject Styles */
+
+/*
+ * jReject (jQuery Browser Rejection Plugin)
+ * Version 1.1.0
+ * URL: http://jreject.turnwheel.com/
+ * Description: jReject is a easy method of rejecting specific browsers on your site
+ * Author: Steven Bower (TurnWheel Designs) http://turnwheel.com/
+ * Copyright: Copyright (c) 2009-2014 Steven Bower under dual MIT/GPL license.
+ */
+
+#jr_overlay {left: 0;margin: 0;padding: 0;position: absolute;top: 0;z-index: 2147483646;}
+#jr_wrap {margin: 0;padding: 0;position: absolute;width: 100%;z-index: 2147483647;}
+#jr_inner {background: #FFF;border: 1px solid #CCC;box-sizing: content-box;color: #4F4F4F;font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;font-size: 12px;height: auto;margin: 0 auto;padding: 20px;position: relative;}
+#jr_nav {color: #333;display: block;font-family: Helvetica, Arial, sans-serif;font-size: 1.3em;font-weight: bold;margin-bottom: 0.5em;margin: 0;padding-bottom: 0;padding: 5px;text-shadow:none;}
+#jr_inner p {margin: 0;padding: 5px;}
+#jr_inner ul {list-style-image: none;list-style-position: outside;list-style-type: none;margin: 0;padding: 0;}
+#jr_inner ul li {cursor: pointer;float: left;height: 122px;margin: 0 10px 10px 10px;padding: 0;text-align: center;width: 120px;}
+#jr_inner li a {color: #333;font-size: 0.8em;margin: 0;padding: 0;text-decoration: none;}
+#jr_inner li a:hover {text-decoration: underline;}
+#jr_inner .jr_icon {background: transparent no-repeat scroll left top;cursor: pointer;height: 100px;margin: 1px auto;padding: 0;width: 100px;}
+#jr_close {clear: both;margin: 0;padding: 0;}
+#jr_close a {color: #000;display: block;margin: 0;padding: 0;text-decoration: underline;width: auto;}
+#jr_close p {margin: 0;padding: 10px 0 0 0;}
+
+
+/*Animations from animations.css */
