@@ -46,8 +46,7 @@ postImages:
   image5-position: left
   image5-size: small
 
-#make 10 image
-#right justify quote attribution line
+#Copy the above 5 'image' lines for any other images up to 10
 ---
 
 
@@ -230,14 +229,14 @@ Screenshots {#screenshots}
 
 <div class="grid screenshots" markdown="1">
 
-[![Screenshot 1](/presskit/images/potatoman/PM_Screen1.png)](/presskit/images/potatoman/PM_screen1.png)
-[![Screenshot 2](/presskit/images/potatoman/PM_Screen2.png)](/presskit/images/potatoman/PM_screen2.png){:.lightbox}
-[![Screenshot 3](/presskit/images/potatoman/PM_Screen3.png)](/presskit/images/potatoman/PM_screen3.png){:.lightbox}
-[![Screenshot 4](/presskit/images/potatoman/PM_Screen4.png)](/presskit/images/potatoman/PM_screen4.png){:.lightbox}
-[![Screenshot 5](/presskit/images/potatoman/PM_Screen5.png)](/presskit/images/potatoman/PM_screen5.png){:.lightbox}
-[![Screenshot 6](/presskit/images/potatoman/PM_Screen5.png)](/presskit/images/potatoman/PM_screen5.png){:.lightbox}
-[![Screenshot 7](/presskit/images/potatoman/PM_Screen5.png)](/presskit/images/potatoman/PM_screen5.png){:.lightbox}
-[![Screenshot 8](/presskit/images/potatoman/PM_Screen5.png)](/presskit/images/potatoman/PM_screen5.png){:.lightbox}
+[![Screenshot 1]({{site.baseurl}}/images/potatoman/PM_Screen1.png)]({{site.baseurl}}/images/potatoman/PM_screen1.png){:.lightbox}
+[![Screenshot 2]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_screen2.png){:.lightbox}
+[![Screenshot 3]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_screen3.png){:.lightbox}
+[![Screenshot 4]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_screen4.png){:.lightbox}
+[![Screenshot 5]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_screen5.png){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_screen5.png){:.lightbox}
+[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_screen5.png){:.lightbox}
+[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_screen5.png){:.lightbox}
 
 
 
@@ -254,10 +253,10 @@ Logos   {#logo}
 
 <div class="grid screenshots" markdown="1">
 
-[![Logo 1](/presskit/images/potatoman/logo.png)](/presskit/images/potatoman/logo.png){:.lightbox}
-[![Logo 2](/presskit/images/potatoman/logo1.png)](/presskit/images/potatoman/logo1.png){:.lightbox}
-[![Logo 3](/presskit/images/potatoman/icon.png)](/presskit/images/potatoman/icon.png){:.lightbox}
-[![Logo 4](/presskit/images/potatoman/pixeljam.svg)](/presskit/images/potatoman/pixeljam.svg){:.lightbox}
+[![Logo 1]({{site.baseurl}}/images/potatoman/logo.png)]({{site.baseurl}}/images/potatoman/logo.png){:.lightbox}
+[![Logo 2]({{site.baseurl}}/images/potatoman/logo1.png)]({{site.baseurl}}/images/potatoman/logo1.png){:.lightbox}
+[![Logo 3]({{site.baseurl}}/images/potatoman/icon.png)]({{site.baseurl}}/images/potatoman/icon.png){:.lightbox}
+[![Logo 4]({{site.baseurl}}/images/potatoman/pixeljam.svg)]({{site.baseurl}}/images/potatoman/pixeljam.svg){:.lightbox}
 
 
 </div><div class="clearfix"></div>

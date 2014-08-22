@@ -214,6 +214,7 @@ li {list-style-position:inside;list-style-type:circle;}
   margin:0 auto .5em;
 }
 
+.game-presskit blockquote blockquote {text-align:right;}
 .game-presskit blockquote p em {font-size:.9em; margin-left:1em;}
 .game-presskit blockquote p em + a {font-size: .9em}
 
