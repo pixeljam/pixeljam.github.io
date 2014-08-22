@@ -106,7 +106,7 @@ h1,h2,h3,h4,h5 {
   width:50%;
   /*border-bottom: 1px solid;*/
 }
-
+#trailers {margin-bottom:-1em;}
 .game-presskit h2:before {
   display: block;
   content: " ";
