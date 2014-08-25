@@ -43,7 +43,7 @@ postImages:
   image4-size: small
 #Fifth Image
   image5-title: "Screenshot 4"
-  image5-url: "invader04_200"
+  image5-url: "invader04_200.png"
   image5-position: left
   image5-size: small
 
