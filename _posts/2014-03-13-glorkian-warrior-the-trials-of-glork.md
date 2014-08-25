@@ -28,7 +28,7 @@ postImages:
   image1-size: small
 #Second Image
   image2-title: "Invader 1"
-  image2-url: "Invader01_200.png"
+  image2-url: "invader01_200.png"
   image2-position: left
   image2-size: medium
 #Third Image
