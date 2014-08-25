@@ -3,9 +3,9 @@ title: Pixeljam Press Kit
 type: presskit
 email: alex@pixeljam.com
 description: "Pixeljam Inc. Press Kit - Here you'll find company history, game release listings, and press-usable assets including: images, logos, icons, videos, et cetera."
-baseurl: "//pj.l/presskit/pixeljam.github.io/_site"
+# baseurl: "//pj.l/presskit/pixeljam.github.io/_site"
 # baseurl: "//pman.mindevo.com/press"
-# baseurl: "//press.pixeljam.com"
+baseurl: "//press.pixeljam.com"
 # baseurl: "//pixeljam.github.com"
 url: "http://press.pixeljam.com"
 twitter_username: pixeljamgames
