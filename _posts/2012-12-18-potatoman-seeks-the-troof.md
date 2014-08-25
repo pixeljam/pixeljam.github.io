@@ -1,7 +1,7 @@
 ---
 layout: post
 type: presskit
-title:  "Potatoman Seeks the Troof is Awesome"
+title:  "Potatoman Seeks the Troof Press Kit - Platforming Adventure for Ouya / Mac / PC / Linux"
 date:   2014-03-18 16:01:57
 press: 'yes'
 tags: game
@@ -12,7 +12,8 @@ colors:
   separator: "rgba(255,138,14,1)"
   nav: "rgba(255,145,72,.9)"
   overview: "rgba(223,89,52,1)"
-#Include Some SEO including description and snippet.
+description: "This will go into the header for SEO purposes. "
+imageFolder: "potatoman/"
 image:
   feature: feature-potatoman.svg
 postImages:
@@ -285,15 +286,12 @@ An interview with Miles Tilmann
 
 
 
-{::comment}This part will only show up if you type anything other than "no" in the setup section of this document for the press setting {:/comment}
+{::comment}This and the next 2 lines (including the empty line) will only produce a "Request a Press Copy" section if you said anything other than 'no' in the page setup section above. {:/comment}
 
-{% if page.press != "no" %}
-Request a Press Copy
-----------------------
-Please fill in your info below, and we'll send you a press copy
+{% include press.md %}
 
-{% include pressCopy.html %}
-{% endif %}
+
+
 
 
 

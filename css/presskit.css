@@ -1,3 +1,7 @@
+/*                        \*
+General Attributes
+\*                        */
+
 .clearfix:after {
    content: ".";
    visibility: hidden;
@@ -14,8 +18,9 @@ body {
   font-family: 'Lato',sans-serif;
   font-weight:400;
 }
-
-
+.presskit-game li {list-style-position:inside;list-style-type:circle;}
+.presskit a, .presskit a:visited {color: rgba(43,169,202,1)}
+/*.thevideo {max-width: 50%;}*/
 
 
 /*                           *\
@@ -50,11 +55,11 @@ header img {
 
 .toc {
   float:right;
-  margin:.5em 2em 0 0;
+  margin:.5em .5em 0 0;
   position: fixed;
   right:0;
   top:2.8em;
-  width:10%;
+  width:12%;
 }
 
 #markdown-toc {
@@ -80,7 +85,7 @@ header img {
 }
 
 #markdown-toc li a {color:white;}
-
+#markdown-toc li ul li {background-color: rgba(0,0,0,.2)}
 
 
 /*                *\
@@ -107,41 +112,69 @@ h1,h2,h3,h4,h5 {
   /*border-bottom: 1px solid;*/
 }
 #trailers {margin-bottom:-1em;}
-.game-presskit h2:before {
-  display: block;
+
+.game-presskit h2:before, .game-presskit h2:after {
   content: " ";
+  display: block;
   height:.6em;
+  width:100%
+}
+.game-presskit h2:before {
   margin-top: 45px;
   border-top: 1px solid black;
-  width:100%;
 }
 
 .game-presskit h2:after {
-  display: block;
-  content: " ";
-  height:.6em;
   border-bottom: 1px solid black;
-  width:100%
 }
 
-.game-presskit h3 {
-  margin: .5em auto;
-  width:40%
-}
-
-.game-presskit h4,.game-presskit iframe {
+.game-presskit h3, .game-presskit h4,.game-presskit h5,
+.game-presskit iframe, .game-presskit ul, .game-presskit p {
   display:block;
-  margin: .5em auto;
-  width:60%;
 }
 
+.game-presskit h3, .game-presskit h4,.game-presskit h5 {
+  margin: .5em auto;
+  width:50%
+}
+.game-presskit h5 {margin-top:1em;}
 
+.game-presskit iframe {
+  margin: .5em auto;
+  width:50%;
+}
 
+#trailers + h3 , .game-presskit iframe + h3 {
+  width: 50%
+}
+
+@media (min-width:1200px) {
+  .game-presskit h3, .game-presskit h4, .game-presskit h5 {
+    margin: .5em auto;
+    width:40%;
+  }
+  /*.thevideo {max-width: 40%;}*/
+
+  .toc {
+    margin:.5em 2em 0 0;
+    width:10%;
+  }
+}
 
 /*                           *\
      Section Styles
 \*                           */
 
+.game-presskit ul,.game-presskit p {
+  margin:auto;
+  width:50%
+  }
+
+@media (min-width:1200px){
+  .game-presskit ul,.game-presskit p {
+    width:40%
+    }
+}
 #glorkian:before, #potatoman:before, #dino-run:before {
   display:block;
   content: " ";
@@ -159,12 +192,6 @@ h1,h2,h3,h4,h5 {
   margin-top:-4em;
 }
 
-.game-presskit ul,.game-presskit p {
-  display:block;
-  margin:auto;
-  width:40%
-  }
-
 .game-presskit ul li p {width:100%;}
 .game-presskit p, .game-presskit ul li {
   color:rgba(0,0,0,.9);
@@ -172,16 +199,9 @@ h1,h2,h3,h4,h5 {
   }
 
 .game-presskit ul li ul {width:90%;}
+#credits ~ h4,#team ~ h4,#contact ~h4 { margin:1em auto 0;}
+#credits ~ p,#team ~ p,#contact ~ p {margin: 0 auto;}
 
-#credits ~ h4,#team ~ h4,#contact ~h4 {
-  margin:1em auto 0;
-}
-
-#credits ~ p,#team ~ p,#contact ~ p {
-  margin: 0 auto;
-}
-
-li {list-style-position:inside;list-style-type:circle;}
 
 /*nav {height:2.8em;}*/
 
@@ -238,8 +258,13 @@ li {list-style-position:inside;list-style-type:circle;}
 .game-presskit form {
   color:black;
   margin: auto;
-  width:60%
+  width:50%
 }
+
+.game-presskit form label, .game-presskit form input {
+  margin:.5em
+}
+
 /*                *\
      Images
 \*                */
