@@ -219,9 +219,9 @@ Logos  {#logo}
 [![Logo 1]({{site.baseurl}}/images/glorkian/KochalkaQuality.png)]({{site.baseurl}}/images/glorkian/KochalkaQuality.png){:.lightbox}
 [![Logo 2]({{site.baseurl}}/images/glorkian/newGlorkIcon05RobotHead.png)]({{site.baseurl}}/images/glorkian/newGlorkIcon05RobotHead.png){:.lightbox}
 [![Logo 3]({{site.baseurl}}/images/glorkian/PixeljamLogoKochalka1440.png)]({{site.baseurl}}/images/glorkian/PixeljamLogoKochalka1440.png){:.lightbox}
-[![Logo 4]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.png)]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.svg){:.lightbox}
-[![Logo 5]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.png)]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.svg){:.lightbox}
-[![Logo 6]({{site.baseurl}}/images/glorkian/GlorkianSeal.png)]({{site.baseurl}}/images/glorkian/GlorkianSeal.svg){:.lightbox}
+[![Logo 4]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.png)]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.png){:.lightbox}
+[![Logo 5]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.png)]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.png){:.lightbox}
+[![Logo 6]({{site.baseurl}}/images/glorkian/GlorkianSeal.png)]({{site.baseurl}}/images/glorkian/GlorkianSeal.png){:.lightbox}
 [![Logo 7]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png)]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png){:.lightbox}
 
 </div><div class="clearfix"></div>
@@ -256,6 +256,7 @@ Awards  & Featured {#awards}
 {% include images.md param="image4" %}
 
 * Kill Screen Play List 4/2 - *[Kill Screen](http://killscreendaily.com/articles/comic-mayhem-glorkian-warrior-absolute-chaos-heavy-bullets-and-quiet-poignance-alz/)*
+* IndieGames.com Mobile Pick - *[IndieGames](http://indiegames.com/2014/03/glorkian_warrior_trials_of_glo.html)*
 * Featured March 2014 - *Apple App Store*
 * Game of the Week - *[Touch Arcade](http://toucharcade.com/2014/03/14/game-of-the-week-glorkian-warrior/)*
 * 5/5 Stars - *[Cult of Mac](http://www.cultofmac.com/270001/glorkian-warrior-trials-glork-review/)*
