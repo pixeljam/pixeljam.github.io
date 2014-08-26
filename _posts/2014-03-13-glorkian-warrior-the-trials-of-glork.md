@@ -100,7 +100,7 @@ USD 2.99
 press@pixeljam.com
 
 * **Key Art, Screenshots, & Logos Download**:
-Here you can download either [Key Art & Screenshots]({{site.baseurl}}/images/keyArtScreenshots.zip) or the [Logos & Icons]({{site.baseurl}}/images/logosIcons.zip)
+Here you can download either [Key Art & Screenshots]({{site.baseurl}}/images/glorkian/keyArtScreenshots.zip) or the [Logos & Icons]({{site.baseurl}}/images/glorkian/logosIcons.zip)
 
 
 
