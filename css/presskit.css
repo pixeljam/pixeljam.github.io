@@ -18,7 +18,7 @@ body {
   font-family: 'Lato',sans-serif;
   font-weight:400;
 }
-.presskit-game li {list-style-position:inside;list-style-type:circle;}
+.game-presskit li {list-style-position:inside;list-style-type:circle;}
 .presskit a, .presskit a:visited {color: rgba(43,169,202,1)}
 /*.thevideo {max-width: 50%;}*/
 
@@ -229,7 +229,7 @@ h1,h2,h3,h4,h5 {
   padding-left:2em;
 }
 
-.game-presskit #trailers ~ p {padding-left:3em;}
+/*.game-presskit #trailers ~ p {padding-left:3em;}*/
 .game-presskit h3 + p {
   margin:0 auto .5em;
 }
