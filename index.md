@@ -47,5 +47,3 @@ postImages:
 
 #Copy the above 5 'image' lines for any other images up to 10
 ---
-
-markdown

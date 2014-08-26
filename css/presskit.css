@@ -316,6 +316,7 @@ footer a:hover {text-decoration:none;}
     width: 80%
   }
   .toc {
+    margin-right: 0;
     position:absolute;
     top:11.5em;
     width: 25%;
