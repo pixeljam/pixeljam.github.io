@@ -148,18 +148,6 @@ h1,h2,h3,h4,h5 {
   width: 50%
 }
 
-@media (min-width:1200px) {
-  .game-presskit h3, .game-presskit h4, .game-presskit h5 {
-    margin: .5em auto;
-    width:40%;
-  }
-  /*.thevideo {max-width: 40%;}*/
-
-  .toc {
-    margin:.5em 2em 0 0;
-    width:10%;
-  }
-}
 
 /*                           *\
      Section Styles
@@ -170,11 +158,6 @@ h1,h2,h3,h4,h5 {
   width:50%
   }
 
-@media (min-width:1200px){
-  .game-presskit ul,.game-presskit p {
-    width:40%
-    }
-}
 #glorkian:before, #potatoman:before, #dino-run:before {
   display:block;
   content: " ";
@@ -303,4 +286,44 @@ footer {
 footer h3 {color:white;}
 footer li {list-style-type:none;}
 footer a:hover {text-decoration:none;}
-/**/
+
+
+
+/*                        \*
+    Media Queries
+\*                        */
+
+
+@media (min-width:1200px) {
+  .game-presskit ul,.game-presskit p {
+    width:40%
+    }
+
+  .game-presskit h3, .game-presskit h4, .game-presskit h5 {
+    margin: .5em auto;
+    width:40%;
+  }
+  /*.thevideo {max-width: 40%;}*/
+
+  .toc {
+    margin:.5em 2em 0 0;
+    width:10%;
+  }
+}
+@media (max-width:600px){
+  .game-presskit h3, .game-presskit h4, .game-presskit h5 {
+    margin-rigth:25%
+    width: 80%
+  }
+  .toc {
+    position:absolute;
+    top:11.5em;
+    width: 25%;
+  }
+  .game-presskit ul, .game-presskit p {
+    margin-right:25%;
+    width:80%
+  }
+  header {margin-top:5.7em;}
+  header img {width:100%;}
+}
