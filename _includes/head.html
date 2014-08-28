@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="{{ "/css/reset.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/index.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/presskit.css" | prepend: site.baseurl }}">
-  <!-- <link rel="stylesheet" href="{{ "/css/base.css" | prepend: site.baseurl }}"> -->
   <link rel="stylesheet" href="{{ "/css/magnific-popup.css" | prepend: site.baseurl }}">
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -47,9 +46,9 @@
     {% if page.colors.bg-gradient-top %}
       body {
         background-color: {{page.colors.bg-gradient-bottom}};
-        background: linear-gradient(to bottom,{{page.colors.bg-gradient-top}} 0px,{{page.colors.bg-gradient-bottom}} 220px,{{page.colors.bg-gradient-bottom}} 30000px);
+        background: linear-gradient(to bottom,{{page.colors.bg-gradient-top}} 0px,{{page.colors.bg-gradient-bottom}} 220px,{{page.colors.bg-gradient-bottom}} 10000px);
         background-attachment: scroll;
-        background-size: 100% 1000%;
+        background-size: 100% 1200%;
       }
     {% endif %}
     {% if page.colors.title %}
