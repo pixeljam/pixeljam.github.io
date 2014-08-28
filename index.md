@@ -12,7 +12,7 @@ colors:
   nav: "rgba(35,210,255,.9)"
   overview: "rgba(255,0,255,.8)"
 image:
-  feature: http://pixeljam.com/press/images/header.png
+  feature: feature-pixeljam.png
 
 postImages:
 #These are the in-document images, not including the image-specific sections like screenshots, logos, key art, et cetera
