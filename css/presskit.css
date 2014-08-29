@@ -2,6 +2,7 @@
 General Attributes
 \*                        */
 
+html {width: 100%;}
 .clearfix:after {
    content: ".";
    visibility: hidden;
@@ -368,14 +369,14 @@ footer a:hover {text-decoration:none;}
 
 @media only screen and (max-width: 600px) {
   body {font-size: 14px;}
-  header {margin-top: 9em;}
+  header {margin-top: 7.9em;}
 
 
 /*                                        *
       TOC Specific Styles
 *                                         */
   #navbar {
-    top: 20.8em;
+    top: 15.8em;
     left: -6.563em;
     width: 6.563em;
     -webkit-transition: all 300ms;
@@ -388,9 +389,9 @@ footer a:hover {text-decoration:none;}
     transition: all 300ms;
   }
 
-
-  body.menu-active #navbar {left: 0px;}
-  body.menu-active #navbar ul {left: 0px;}
+  #navbar h3 {
+    opacity: 0;
+  }
 
   #container {
     position: fixed;
@@ -403,7 +404,7 @@ footer a:hover {text-decoration:none;}
 
   div.menu-trigger {
     position: fixed;
-    top: 19em; left: 0;
+    top: 15em; left: 0;
     width: 6.563em; height: 32px;
     background: rgba(0,0,0,.6);
     cursor: pointer;
@@ -425,10 +426,18 @@ footer a:hover {text-decoration:none;}
     color: #fff;
   }
 
+  body.menu-active div.menu-trigger {top:5.6em;}
+  body.menu-active #navbar {top:5.8em; left: 0px;}
+  body.menu-active #navbar ul {left: 0px;}
+
+
   #presskit-title {
     font-size: 1.6em;
     padding-left:1em;
   }
-
+  .game-presskit iframe {
+    height:12em;
+    width: 80%;
+  }
 
 }
