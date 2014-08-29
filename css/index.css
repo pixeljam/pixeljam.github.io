@@ -29,6 +29,9 @@ nav {
   width:100%;
   z-index:1000;
 }
+
+#presskit nav.navigation {background-color: rgba(0,0,0,.9)}
+
 nav ul {
   height:2.8em;
   position:relative;

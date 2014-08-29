@@ -19,14 +19,16 @@ body {
   font-weight:400;
 }
 .game-presskit li {list-style-position:inside;list-style-type:circle;}
-#presskit a, #presskit a:visited {color: rgba(43,169,202,1)}/
+.presskit a, .presskit a:visited {color: rgba(43,169,202,1)}
+/*.thevideo {max-width: 50%;}*/
 
 
 /*                           *\
     Header & Nav
 \*                           */
-
-#presskit nav {background-color: rgba(0,0,0,.9) !important;}
+.presskit nav {
+  background-color: rgba(0,0,0,.9);
+}
 
 header {
   display:inline-block;
@@ -52,6 +54,7 @@ header img {
 }
 
 .toc {
+  /*float:right;*/
   margin:.5em .5em 0 0;
   position: fixed;
   right:0;
@@ -63,6 +66,7 @@ header img {
 #markdown-toc {
   background-color: rgba(255,255,255,.3);
   font-size: .8em;
+
 }
 
 .toc h3 {
@@ -84,6 +88,124 @@ header img {
 #markdown-toc li a {color:white;}
 #markdown-toc li ul li {background-color: rgba(0,0,0,.2)}
 
+/*                                                  *\
+    Special Nav Responsive Stuff.
+\*                                                  */
+
+@media only screen and (max-width: 800px) {
+  body {font-size: 15px;}
+
+  header img{width:100%;}
+  .game-presskit {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    padding: 1%;
+  }
+
+  .toc {
+    width: 20%;
+    position: fixed;
+    top: 14em; left: 0;
+    opacity: 1;
+    -webkit-transition: none;
+    transition: none;
+  }
+
+  .toc ul {width: 100%; padding: 0;}
+  .toc ul:nth-of-type(2) {float: left;}
+  .toc ul li, nav ul:nth-of-type(2) li {float: none;}
+
+  #navbar {background-color:none;}
+  #navbar ul {height: auto;}
+  #navbar ul a {display: block;}
+
+  .fixednav {
+    left: 0 !important;
+    width: 20% !important;
+    opacity: 1 !important;
+  }
+
+  .fixednav ul {
+    -webkit-transition: none;
+    transition: none;
+    width: 100% !important;
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {font-size: 14px;}
+
+  header {
+    margin-top: 9em;
+  }
+
+  #navbar {
+    position: absolute;
+    bottom: 0em;
+    left: -150px;
+    width: 150px;
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+    opacity: 0.92;
+  }
+
+  #navbar ul {
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+  }
+
+  #navbar ul li ul {
+    position:relative;
+  }
+  #navbar ul li ul li {
+    position:relative;
+  }
+  ul#markdown-toc {
+    position: absolute;
+    bottom: 0;
+  }
+  .toc h3 {
+    position:relative;z;
+    bottom:0;
+  }
+  body.menu-active #navbar {left: 0px;}
+  body.menu-active #navbar ul {left: 0px;}
+
+  #container {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0 1% 1% 43px;
+    overflow: scroll;
+  }
+
+  div.menu-trigger {
+    position: fixed;
+    top: 18em; left: 7px;
+    width: 32px; height: 32px;
+    background: rgba(0,0,0,.6);
+    cursor: pointer;
+    -webkit-transition: all 300ms;
+    transition: all 300ms;
+    z-index: 999;
+    opacity: 0.8;
+  }
+
+  div.menu-trigger:before {
+    content: 'PJ';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    font-size: 1.2em;
+    text-align: center;
+    text-transform: none;
+    line-height: 32px;
+    color: #fff;
+  }
+}
 
 /*                *\
     Headings
@@ -106,6 +228,7 @@ h1,h2,h3,h4,h5 {
   margin: 0 auto;
   padding:.6em 0 .6em;
   width:50%;
+  /*border-bottom: 1px solid;*/
 }
 #trailers {margin-bottom:-1em;}
 
@@ -181,6 +304,9 @@ h1,h2,h3,h4,h5 {
 #credits ~ h4,#team ~ h4,#contact ~h4 { margin:1em auto 0;}
 #credits ~ p,#team ~ p,#contact ~ p {margin: 0 auto;}
 
+
+/*nav {height:2.8em;}*/
+
 #presskit-title {
   margin-bottom: .6em;
   padding: 0;
@@ -241,7 +367,6 @@ h1,h2,h3,h4,h5 {
   margin:.5em
 }
 
-
 /*                *\
      Images
 \*                */
@@ -254,7 +379,6 @@ h1,h2,h3,h4,h5 {
 .left {float:left;margin-left:-20%;padding-right:1.5em;}
 .small {max-width: 10em;}
 .medium {max-width:15em;}
-
 
 /*                                             *\
   Screenshot & Image Sections
@@ -283,147 +407,43 @@ footer li {list-style-type:none;}
 footer a:hover {text-decoration:none;}
 
 
+
 /*                        \*
     Media Queries
 \*                        */
 
 
-
-/*                                                  *\
-    Special Nav Responsive Stuff.
-           & Media Queries
-\*                                                  */
-
 @media (min-width:1200px) {
-  .game-presskit ul,.game-presskit p {width:40%}
+  .game-presskit ul,.game-presskit p {
+    width:40%
+    }
 
   .game-presskit h3, .game-presskit h4, .game-presskit h5 {
     margin: .5em auto;
     width:40%;
   }
+  /*.thevideo {max-width: 40%;}*/
 
   .toc {
     margin:.5em 2em 0 0;
     width:10%;
   }
 }
-@media only screen and (max-width: 800px) {
-
-  body {font-size: 15px;}
-  header img{width:100%;}
-
-
-/*                              *
-      TOC Specific
-*                             */
-
-  .game-presskit {
-    width: 80%;
-    position: relative;
-    left: 10%;
-    padding: 1%;
-  }
-
-  .toc {
-    width: 20%;
-    position: fixed;
-    top: 16em; left: 0;
-    opacity: 1;
-    -webkit-transition: none;
-    transition: none;
-  }
-
-  .toc ul {width: 100%; padding: 0;}
-  #navbar ul {height: auto;}
-  #navbar ul a {display: block;}
-
-
-/*                                    *
-  Content Styles Max800
-*                                   */
-  .game-presskit h2 {
-    width: 80%;
-  }
-
+/*@media (max-width:600px){
   .game-presskit h3, .game-presskit h4, .game-presskit h5 {
-    width: 80%;
+    margin-rigth:25%
+    width: 80%
   }
-
+  .toc {
+    margin-right: 0;
+    position:absolute;
+    top:11.5em;
+    width: 25%;
+  }
   .game-presskit ul, .game-presskit p {
-    width: 80%;
+    margin-right:25%;
+    width:80%
   }
-  #trailers + h3, .game-presskit iframe + h3 {
-    width: 80%;
-  }
-  #presskit-team-contact {
-    width: 100%;
-  }
-  .game-presskit iframe {
-    height:20em;
-    width: 100%;
-  }
-
-}
-
-@media only screen and (max-width: 600px) {
-  body {font-size: 14px;}
-  header {margin-top: 9em;}
-
-
-/*                                        *
-      TOC Specific Styles
-*                                         */
-  #navbar {
-    top: 20.8em;
-    left: -6.563em;
-    width: 6.563em;
-    -webkit-transition: all 300ms;
-    transition: all 300ms;
-    opacity: 0.92;
-  }
-
-  #navbar ul {
-    -webkit-transition: all 300ms;
-    transition: all 300ms;
-  }
-
-
-  body.menu-active #navbar {left: 0px;}
-  body.menu-active #navbar ul {left: 0px;}
-
-  #container {
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    padding: 0 1% 1% 43px;
-    overflow: scroll;
-  }
-
-  div.menu-trigger {
-    position: fixed;
-    top: 19em; left: 0;
-    width: 6.563em; height: 32px;
-    background: rgba(0,0,0,.6);
-    cursor: pointer;
-    -webkit-transition: all 300ms;
-    transition: all 300ms;
-    z-index: 999;
-    opacity: 0.8;
-  }
-
-  div.menu-trigger:before {
-    content: 'Menu';
-    display: inline-block;
-    width:6.563em;
-    height: 32px;
-    font-size: 1.2em;
-    text-align: center;
-    text-transform: none;
-    line-height: 32px;
-    color: #fff;
-  }
-
-
-
-}
+  header {margin-top:5.7em;}
+  header img {width:100%;}
+}*/
