@@ -185,14 +185,15 @@ blockquote cite:before {content: "\2014 \2009";}
 /******************** 580 Tablet Size******************/
 @media (max-width:600px){
 /*nav stuff*/
-  nav ul{height:4.8em;}
+  .navigation {height: 7.3em;}
+  nav ul{height:7.3em;}
   .logoli  {margin:2px 0 0; text-align:center;width:100%;}
   .pressli {
-    margin:.3em .5em 0 0;
+    margin:0 .5em 0 0;
     width:45%;
   }
   .devli {
-    margin:.3em 1.5em 0 0;
+    margin:0 1.5em 0 0;
     width:41%;
   }
   .socialli{margin:0 auto;width:100%;}

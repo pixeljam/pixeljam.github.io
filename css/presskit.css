@@ -359,14 +359,14 @@ footer a:hover {text-decoration:none;}
 
 @media only screen and (max-width: 600px) {
   body {font-size: 14px;}
-  header {margin-top: 5.8em;}
+  header {margin-top: 7.3em;}
 
 
 /*                                        *
       TOC Specific Styles
 *                                         */
   #navbar {
-    top: 15.8em;
+    top: 17.8em;
     left: -6.563em;
     width: 6.563em;
     -webkit-transition: all 300ms;
@@ -394,7 +394,7 @@ footer a:hover {text-decoration:none;}
 
   div.menu-trigger {
     position: fixed;
-    top: 15em; left: 0;
+    top: 17em; left: 0;
     width: 6.563em; height: 32px;
     background: rgba(0,0,0,.6);
     cursor: pointer;
