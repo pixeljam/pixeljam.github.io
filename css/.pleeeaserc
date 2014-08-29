@@ -1,0 +1,7 @@
+{
+  "optimizers": {
+    "minifier": false,
+    "mqpacker": false,
+    "import": false
+  }
+}

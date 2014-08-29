@@ -264,7 +264,7 @@ h1,h2,h3,h4,h5 {
 
 .grid {
   margin:auto;
-  width: 60%;
+  width: 80%;
 }
 
 .grid p {width:100%;}
@@ -298,6 +298,7 @@ footer a:hover {text-decoration:none;}
 
 @media (min-width:1200px) {
   .game-presskit ul,.game-presskit p {width:40%}
+  .grid p {width: 100%;}
 
   .game-presskit h3, .game-presskit h4, .game-presskit h5 {
     margin: .5em auto;
@@ -329,7 +330,7 @@ footer a:hover {text-decoration:none;}
   .toc {
     width: 20%;
     position: fixed;
-    top: 16em; left: 0;
+    top: 20.8em; left: 0;
     opacity: 1;
     -webkit-transition: none;
     transition: none;
@@ -343,23 +344,12 @@ footer a:hover {text-decoration:none;}
 /*                                    *
   Content Styles Max800
 *                                   */
-  .game-presskit h2 {
-    width: 80%;
-  }
-
-  .game-presskit h3, .game-presskit h4, .game-presskit h5 {
-    width: 80%;
-  }
-
-  .game-presskit ul, .game-presskit p {
-    width: 80%;
-  }
-  #trailers + h3, .game-presskit iframe + h3 {
-    width: 80%;
-  }
-  #presskit-team-contact {
-    width: 100%;
-  }
+  .game-presskit h2 {width: 80%;}
+  .game-presskit h3, .game-presskit h4, .game-presskit h5 {width: 80%; }
+  .game-presskit ul, .game-presskit p {width: 80%;}
+  .grid p {width: 100%}
+  #trailers + h3, .game-presskit iframe + h3 {width: 80%;}
+  #presskit-team-contact {width: 100%;}
   .game-presskit iframe {
     height:20em;
     width: 100%;

@@ -50,14 +50,11 @@ postImages:
 #Copy the above 5 'image' lines for any other images up to 10
 ---
 
-<!--- Keep these lines and ignore until... --->
-<div class="toc" markdown="1">
-<h3>Overview</h3>
-* Do not remove this nor the next 2 lines afterwards. They are important.
-{:toc}
-</div>
-<div class="game-presskit" markdown="1">
-<!--- until here. After here begin page edits -->
+{% include toc.md %}
+
+
+
+
 
 Glorkian Warrior: The Trials of Glork Press Kit  {#presskit-title}
 =========================
@@ -218,11 +215,13 @@ Logos  {#logo}
 
 [![Logo 1]({{site.baseurl}}/images/glorkian/KochalkaQuality.png)]({{site.baseurl}}/images/glorkian/KochalkaQuality.png){:.lightbox}
 [![Logo 2]({{site.baseurl}}/images/glorkian/newGlorkIcon05RobotHead.png)]({{site.baseurl}}/images/glorkian/newGlorkIcon05RobotHead.png){:.lightbox}
+[![Logo 3]({{site.baseurl}}/images/glorkian/GlorkianSeal.png)]({{site.baseurl}}/images/glorkian/GlorkianSeal.png){:.lightbox}
+[![Logo 7]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png)]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png){:.lightbox}
 [![Logo 3]({{site.baseurl}}/images/glorkian/PixeljamLogoKochalka1440.png)]({{site.baseurl}}/images/glorkian/PixeljamLogoKochalka1440.png){:.lightbox}
 [![Logo 4]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.png)]({{site.baseurl}}/images/glorkian/GlorkianWarriorLogo.png){:.lightbox}
 [![Logo 5]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.png)]({{site.baseurl}}/images/glorkian/KochalkaLogo1440.png){:.lightbox}
-[![Logo 6]({{site.baseurl}}/images/glorkian/GlorkianSeal.png)]({{site.baseurl}}/images/glorkian/GlorkianSeal.png){:.lightbox}
-[![Logo 7]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png)]({{site.baseurl}}/images/glorkian/GlorkianQRs03_x5.png){:.lightbox}
+
+
 
 </div><div class="clearfix"></div>
 {::comment} The previous line ends the screenshot section, it's just as important as the first one {:/comment}
@@ -238,11 +237,11 @@ Key Art & Characters {#keyart}
 <div class="grid screenshots" markdown="1">
 
 [![Screenshot 1]({{site.baseurl}}/images/glorkian/MagicRobotHead_400w.png)]({{site.baseurl}}/images/glorkian/MagicRobotHead_400w.png){:.lightbox}
-[![Screenshot 2]({{site.baseurl}}/images/glorkian/GlorkPromoImage01_1440.png)]({{site.baseurl}}/images/glorkian/GlorkPromoImage01_1440.png){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/glorkian/invader04_200.png)]({{site.baseurl}}/images/glorkian/invader04_200.png){:.lightbox}
 [![Screenshot 3]({{site.baseurl}}/images/glorkian/invader01_200.png)]({{site.baseurl}}/images/glorkian/invader01_200.png){:.lightbox}
 [![Screenshot 4]({{site.baseurl}}/images/glorkian/invader02_200.png)]({{site.baseurl}}/images/glorkian/invader02_200.png){:.lightbox}
 [![Screenshot 5]({{site.baseurl}}/images/glorkian/invader03_200.png)]({{site.baseurl}}/images/glorkian/invader03_200.png){:.lightbox}
-[![Screenshot 6]({{site.baseurl}}/images/glorkian/invader04_200.png)]({{site.baseurl}}/images/glorkian/invader04_200.png){:.lightbox}
+[![Screenshot 2]({{site.baseurl}}/images/glorkian/GlorkPromoImage01_1440.png)]({{site.baseurl}}/images/glorkian/GlorkPromoImage01_1440.png){:.lightbox}
 
 </div><div class="clearfix"></div>
 {::comment} The previous line ends the Key Art section, it's just as important as the first one {:/comment}
