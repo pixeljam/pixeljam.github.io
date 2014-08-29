@@ -17,9 +17,10 @@ body {
   background-size: 100% 900%;
   font-family: 'Lato',sans-serif;
   font-weight:400;
+  width:100%;
 }
 .game-presskit li {list-style-position:inside;list-style-type:circle;}
-#presskit a, #presskit a:visited {color: rgba(43,169,202,1)}/
+#presskit a, #presskit a:visited {color: rgba(43,169,202,1)}
 
 
 /*                           *\
@@ -424,6 +425,10 @@ footer a:hover {text-decoration:none;}
     color: #fff;
   }
 
+  #presskit-title {
+    font-size: 1.6em;
+    padding-left:1em;
+  }
 
 
 }
