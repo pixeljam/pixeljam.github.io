@@ -2,7 +2,7 @@
 General Attributes
 \*                        */
 
-html {width: 100%;}
+/*html {width: 100%;}*/
 .clearfix:after {
    content: ".";
    visibility: hidden;
@@ -18,7 +18,7 @@ body {
   background-size: 100% 900%;
   font-family: 'Lato',sans-serif;
   font-weight:400;
-  width:100%;
+  /*width:100%;*/
 }
 .game-presskit li {list-style-position:inside;list-style-type:circle;}
 #presskit a, #presskit a:visited {color: rgba(43,169,202,1)}
@@ -359,10 +359,17 @@ footer a:hover {text-decoration:none;}
 }
 
 @media only screen and (max-width: 600px) {
-  body {font-size: 14px;}
+  body {background-size: 100% 2000%; font-size: 14px;}
   header {margin-top: 7.3em;}
-
-
+  .game-presskit {
+    left:0;
+    margin-right:0;
+    padding-right:0;
+  }
+  .presskit-team, .presskit-contact {
+    float:none;
+    width:100%;
+  }
 /*                                        *
       TOC Specific Styles
 *                                         */
@@ -430,8 +437,23 @@ footer a:hover {text-decoration:none;}
     height:12em;
     width: 80%;
   }
+  .game-presskit h2:before {
+  margin-top: 5em;
+  }
+  .game-presskit h2 {
+    margin-top:-5em;
+  }
   #glorkian:before, #potatoman:before, #dino-run:before {
     height:7.3em;
+  }
+  #glorkian, #potatoman, #dino-run {
+    margin-top:-9em;
+  }
+  .footbox .column2 {margin-left:35%;}
+  .game-presskit h3 + p {
+    margin: 0 0 .5em auto;}
+  #presskit p a {
+    word-wrap: break-word;
   }
 
 }
