@@ -455,5 +455,6 @@ footer a:hover {text-decoration:none;}
   #presskit p a {
     word-wrap: break-word;
   }
-
+  .right {float:none;}
+  .left {float:none;}
 }
