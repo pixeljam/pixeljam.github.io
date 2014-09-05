@@ -1,7 +1,7 @@
 Indie Presskit 0.9b
 ========
 
-This is the Pixeljam Presskit, a resource for anyone involved in the press, blogs, et cetera to quickly get information, assets, et cetera about our company and projects.
+This is the Pixeljam Presskit, a resource for anyone involved in the press (blogs or any media) to quickly get information, assets, et cetera about our company, games, and projects.
 
 This is basically just a Jekyll Template that we are using for all of our press kits for different games.
 
