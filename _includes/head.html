@@ -43,16 +43,14 @@
     #pressy:active .d-text{fill:#23D2FF}
     #pressy {height:100%;min-width:120px;width:100%;}
   {% if page.colors %}
-    {% if page.colors.bg-gradient-top %}
+    {% if page.colors.bg %}
       body {
-        background-color: {{page.colors.bg-gradient-bottom}};
-        background: linear-gradient(to bottom,{{page.colors.bg-gradient-top}} 0px,{{page.colors.bg-gradient-bottom}} 220px,{{page.colors.bg-gradient-bottom}} 10000px);
-        background-attachment: scroll;
-        background-size: 100% 1500%;
+        background-color: {{page.colors.bg}};
       }
     {% endif %}
     {% if page.colors.title %}
       .game-presskit h1 {color: {{page.colors.title}} }
+      a, a:visited {color: {{page.colors.title}}}
     {% endif %}
     {% if page.colors.separator %}
       .game-presskit h2:before {

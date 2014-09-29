@@ -30,7 +30,7 @@ owner:
   bio: "Low Resolution Entertainment for the High Resolution People of Earth"
   email: contact@pixeljam.com
   disqus-shortname:
-  twitter: pixejamgames
+  twitter: pixeljamgames
   facebook: #username
   google:
     plus: #username
@@ -40,15 +40,12 @@ owner:
     ad-slot:
   bing-verify:
   github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
-  lastfm: #username
   tumblr: #username
   pinterest: #username
   foursquare: #username
   steam: #username
-  dribbble: #username
 
 include: [".htaccess"]
 exclude: ["assets", ".pleeeaserc", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

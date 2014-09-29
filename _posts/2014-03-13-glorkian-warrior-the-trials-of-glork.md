@@ -310,6 +310,10 @@ You can find the book, Glorkian Warrior Delivers a Pizza, at any of these retail
 
 * [Your Local Comics Shop](http://www.comicshoplocator.com/)
 
+You can purchase the soundtrack for Glorkian Warrior: The Trials of Glork at Bandcamp:
+
+* [http://pixeljam.bandcamp.com/album/glorkian-warrior-ost-2](http://pixeljam.bandcamp.com/album/glorkian-warrior-ost-2)
+
 
 
 
