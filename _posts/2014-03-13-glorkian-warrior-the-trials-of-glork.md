@@ -1,17 +1,17 @@
 ---
 layout: post
 type: presskit glorkian
-title:  "Glorkian Warrior: The Trials of Glork Press Kit - Hilarious Platforming Shoot Em Up Game for iPhone, iPad, iPod Touch"
+title:  "Glorkian Warrior: The Trials of Glork Press Kit - Hilarious Platforming Shoot Em Up Game for Mac, PC, iPhone, iPad, iPod Touch"
 date:   2014-03-13 16:01:57
 press: 'yes'
 tags: game
 colors:
   bg-gradient-top: "rgb(227,250,255)"
   bg-gradient-bottom: "rgb(255,255,255)"
-  title: "rgba(114,208,246,1.0)"
-  separator: "rgba(251,237,38,.8)"
   nav: "rgba(181,223,211,.9)"
   overview: "rgba(155,200,186,1)"
+  separator: "rgba(251,237,38,.8)"
+  title: "rgba(114,208,246,1.0)"
 description: "This will go into the header for SEO purposes. "
 imageFolder: "glorkian/"
 image:
@@ -78,20 +78,20 @@ Pixeljam
 
 * **Game Pages**:
   * [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=262452651)
-  * [Glorkian Academy](http://glokianwarrior.com)
+  * [Glorkian Academy](http://glorkianwarrior.com)
   * [App Store](http://itunes.apple.com/app/id816399139)
 
 * **Release Date**:
-March 13th, 2014
+November 12th, 2014 (Mac / PC); March 13th, 2014 (iPhone, iPad, iPod Touch)
 
 * **Platforms**:
-iPad, iPhone, iPod Touch
+Mac, PC, iPad, iPhone, iPod Touch
 
 * **Website**:
 http://glorkianwarrior.com
 
 * **Price**:
-USD 2.99
+USD 3.99 (Mac/PC), Mobile (2.99)
 
 * **Press Contact**:
 press@pixeljam.com
@@ -99,6 +99,8 @@ press@pixeljam.com
 * **Key Art, Screenshots, & Logos Download**:
 Here you can download either [Key Art & Screenshots]({{site.baseurl}}/images/glorkian/keyArtScreenshots.zip) or the [Logos & Icons]({{site.baseurl}}/images/glorkian/logosIcons.zip)
 
+* **Media Kit Download**:
+[Here can download](http://glorkianwarrior.com/promo/GlorkMediaKit.zip) a mega collection of promotional assets (screenshots, logos, titles, backgrounds, and other things).
 
 
 
