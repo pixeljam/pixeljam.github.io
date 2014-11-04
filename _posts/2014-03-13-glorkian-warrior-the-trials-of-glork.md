@@ -76,9 +76,16 @@ If there's any information you aren't seeing, or would like any of this in a dif
 * **Developer**:
 Pixeljam
 
+* **Website**:
+http://glorkianwarrior.com
+
 * **Game Pages**:
   * [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=262452651)
   * [Glorkian Academy](http://glorkianwarrior.com)
+  * [App Store](http://itunes.apple.com/app/id816399139)
+
+* **Purchase Links**:
+  * [Mac, PC](http://glorkianwarrior.com)
   * [App Store](http://itunes.apple.com/app/id816399139)
 
 * **Release Date**:
@@ -86,9 +93,6 @@ November 12th, 2014 (Mac / PC); March 13th, 2014 (iPhone, iPad, iPod Touch)
 
 * **Platforms**:
 Mac, PC, iPad, iPhone, iPod Touch
-
-* **Website**:
-http://glorkianwarrior.com
 
 * **Price**:
 USD 3.99 (Mac/PC), Mobile (2.99)
