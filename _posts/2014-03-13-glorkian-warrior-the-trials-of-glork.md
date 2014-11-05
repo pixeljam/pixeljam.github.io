@@ -104,7 +104,7 @@ press@pixeljam.com
 Here you can download either [Key Art & Screenshots]({{site.baseurl}}/images/glorkian/keyArtScreenshots.zip) or the [Logos & Icons]({{site.baseurl}}/images/glorkian/logosIcons.zip)
 
 * **Media Kit Download**:
-[Here can download](http://glorkianwarrior.com/promo/GlorkMediaKit.zip) a mega collection of promotional assets (screenshots, logos, titles, backgrounds, and other things).
+[Download here](http://glorkianwarrior.com/promo/GlorkMediaKit.zip) a mega collection of promotional assets (screenshots, logos, titles, backgrounds, and other things).
 
 
 
@@ -113,11 +113,11 @@ Description  {#description}
 {% include images.md param="image2" %}
 
 Glorkian Warrior: The Trials of Glork is a collaboration between acclaimed comic book artist James Kochalka and indie game studio Pixeljam.
-It's a unique hybrid of Galaga-style shoot 'em up, simple platforming action and Saturday morning cartoon.Help Glorkian Warrior defend his asteroid against an endless onslaught of alien invaders, and be prepared for somewhat unexpected results...
+It's a unique hybrid of Galaga-style shoot 'em up, simple platforming action and Saturday morning cartoon. Help Glorkian Warrior defend his asteroid against an endless onslaught of alien invaders, and be prepared for somewhat unexpected results...
 
 In early 2010, in an age before crowdfunding was a universally recognized concept, Pixeljam successfuly ran a Kickstarter campaign with James Kochalka to raise funds for an idea called Glorkian Warrior. After years of experiments, iterations and trials, we are proud to introduce the Glorkian universe to the world in compact, mobile-friendly comedic endless shooter.
 
-Endearing characters and all-ages humor. Procedurally generated aerial invader flight patterns and formations of the Galaxian persuasion.A wicked arsenal of weapons and power ups, including tennis balls and the legendary "Flarf Gun". A simple and refreshing mobile presentation: No IAP, no complicated leveling-up systems, just good old fashioned entertainment like your great grandpa used to enjoy.
+Endearing characters and all-ages humor. Procedurally generated aerial invader flight patterns and formations of the Galaxian persuasion. A wicked arsenal of weapons and power ups, including tennis balls and the legendary "Flarf Gun". A simple and refreshing mobile presentation: No IAP, no complicated leveling-up systems, just good old fashioned entertainment like your great grandpa used to enjoy.
 
 
 
@@ -133,7 +133,7 @@ Features   {#features}
 * No IAP, just good old fashioned entertainment like your great grandpa used to enjoy
 * Frenetic, "one more try" style gameplay
 * Endearing characters and all-ages humor
-* Based on Kochalka's new graphic novel “The Glorkian Warrior Delivers a Pizza"
+* Based on James Kochalka's character in conjunction with his graphic novel series starting with “The Glorkian Warrior Delivers a Pizza"
 
 
 Can you reach the rank of Glorkian General or will you forever stay a Soft-Boned Space Cadet?
@@ -146,7 +146,7 @@ History   {#history}
 
 In early 2010, in an age before crowdfunding was a universally recognized concept, Pixeljam successfuly ran a [Kickstarter](https://www.kickstarter.com/projects/pixeljam/james-kochalka-pixeljam-glorkian-warrior) campaign with James Kochalka to raise funds for an idea called Glorkian Warrior.  We were able to raise $11,200 with a goal of $10,000.
 
-There were several iterations of the game including a mini-game featuring Glork's pixellated sidekick, Glorkbot. Most of these made it only as far as the Pixeljam vault.
+There were several game prototypes including a mini-game featuring Glork's pixellated sidekick, Glorkbot. Most of these made it only as far as the Pixeljam vault.
 
 After all these experiments, iterations and trials, we presented the Glorkian Universe to the world in our compact, mobile-friendly comedic endless shooter.
 
@@ -156,9 +156,9 @@ After all these experiments, iterations and trials, we presented the Glorkian Un
 Future Plans
 ------------
 
-With only iPhone, iPad, and iPod Touch versions available at the present Glorkian Warrior: The Trials of Glork is being developed for PC, Mac, and Android. Pixeljam is working with Noodlecake Games to release the Android version.
+Currently Mac, PC, iPhone, iPad, and iPod Touch versions are available for Glorkian Warrior: The Trials of Glork. Pixeljam is working with Noodlecake Games to release the Android version.
 
-We presently have no plans to bring Glorkian Warrior to any other platforms though it's not out of the question.
+We presently have no plans to bring Glorkian Warrior to any other platforms or consoles though it's not out of the question. Send us a note if you are really interested in seeing it on your favorite platform.
 
 
 
