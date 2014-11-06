@@ -12,7 +12,7 @@ colors:
   overview: "rgba(155,200,186,1)"
   separator: "rgba(251,237,38,.8)"
   title: "rgba(114,208,246,1.0)"
-description: "This will go into the header for SEO purposes. "
+description: "Glorkian Warrior: The Trials of Glork is a hilarious platforming shoot em up game for Mac, PC, iPhone, iPad, iPod Touch, and Android that brings the best of Saturday morning cartoons and retro gameplay to an indie game package that is lovable by all."
 imageFolder: "glorkian/"
 image:
   feature: feature-glorkian.png
@@ -77,7 +77,7 @@ If there's any information you aren't seeing, or would like any of this in a dif
 Pixeljam
 
 * **Website**:
-http://glorkianwarrior.com
+[http://glorkianwarrior.com](http://glorkianwarrior.com)
 
 * **Game Pages**:
   * [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=262452651)
@@ -166,11 +166,11 @@ We presently have no plans to bring Glorkian Warrior to any other platforms or c
 Trailers   {#trailers}
 --------
 
-### Launch Trailer
+### Mac / PC Launch Trailer
 
-[Youtube](https://www.youtube.com/watch?v=Qsvd3YIk8GA) &#124; [Vimeo](//vimeo.com/55823830)
+[Youtube](http://youtu.be/8YASBInAnBM)
 
-<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/Qsvd3YIk8GA" frameborder="0" allowfullscreen></iframe>
+<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/8YASBInAnBM" frameborder="0" allowfullscreen></iframe>
 
 
 ### Teaser Trailer
@@ -180,7 +180,7 @@ Trailers   {#trailers}
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/Ka3OZNMI5Vs" frameborder="0" allowfullscreen></iframe>
 
 
-### Launch Trailer (Short)
+### Update Trailer
 
 [Youtube](https://www.youtube.com/watch?v=_w6xhR5LmDE)
 
@@ -319,6 +319,11 @@ You can find the book, Glorkian Warrior Delivers a Pizza, at any of these retail
 You can purchase the soundtrack for Glorkian Warrior: The Trials of Glork at Bandcamp:
 
 * [http://pixeljam.bandcamp.com/album/glorkian-warrior-ost-2](http://pixeljam.bandcamp.com/album/glorkian-warrior-ost-2)
+
+
+
+
+{% include press.md %}
 
 
 
