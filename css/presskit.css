@@ -19,7 +19,38 @@ body {
 .game-presskit li {list-style-position:inside;list-style-type:circle;}
 #presskit a, #presskit a:visited {color: rgba(43,169,202,1)}
 
+.btn {
+background: rgb(117, 159, 249);
+border: none;
+border-radius: 20px;
+color: #fff;
+box-shadow: 0 6px rgba(0, 0, 0, 0.2);
+cursor: pointer;
+display: block;
+font-family: inherit;
+font-size: inherit;
+font-weight: 700;
+letter-spacing: 1px;
+margin: auto;
+/*max-width:100%;*/
+outline: none;
+padding: .2em 1em;
+position: relative;
+/*text-transform: uppercase;*/
+-webkit-transition: none;
+-moz-transition: none;
+transition: none;
+}
 
+.btn:hover {
+  box-shadow: 0 4px rgba(0, 0, 0, 0.2);
+  top: 2px;
+}
+
+.btn:active {
+  box-shadow: 0 0  rgba(0, 0, 0, 0.2);
+  top: 6px;
+}
 /*                           *\
     Header & Nav
 \*                           */
@@ -234,15 +265,29 @@ h1,h2,h3,h4,h5 {
 .presskit-team h2:before, .presskit-team h2:after {width:90%;}
 
 .game-presskit form {
+  background-color: rgba(0,0,0,.4);
   color:black;
   margin: auto;
+  padding: 1em 0;
   width:50%
 }
 
-.game-presskit form label, .game-presskit form input {
+.pressCopy {
+  display: block;
+  margin: auto;
+  width: auto;
+}
+
+.pressCopy label {
+  display: block;
+  text-align:center;
   margin:.5em
 }
 
+.pressCopy label span {
+  display:block;
+  vertical-align: top;
+}
 
 /*                *\
      Images
