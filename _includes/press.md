@@ -6,7 +6,7 @@ Please send us an email at press@pixeljam.com and we will send you over a copy; 
 
 <br />
 
-<form action="//forms.brace.io/press@pixeljam.com">
+<form method="POST" action="//forms.brace.io/press@pixeljam.com">
 
 <label for="Name">Enter Publication Name:</label>
       <input type="text" placeholder="Your Publication" name="name"><br />
