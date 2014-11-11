@@ -6,7 +6,7 @@ date:   2014-03-13 16:01:57
 press: 'yes'
 tags: game
 colors:
-  bg-gradient-top: "rgb(227,250,255)"
+  bg-gradient-top: "rgb(255,255,255)"
   bg-gradient-bottom: "rgb(255,255,255)"
   nav: "rgba(181,223,211,.9)"
   overview: "rgba(155,200,186,1)"
