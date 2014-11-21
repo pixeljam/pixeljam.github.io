@@ -74,22 +74,20 @@ You have arrived at the Potatoman Seeks the Troof Press Page. Here you should fi
 * **Developer**:
 Pixeljam
 
-* **Game Pages**:
-   * [Steam Greenlight](steam)
-   * [Potatoman Page](potatoman)
-   * [Mac App Store](mac)
+<!-- * **Game Pages**:
+   * [Potatoman Page](//seekthetroof.com)
+   * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12) -->
 
 * **Release Date**:
 December 18th, 2012
 
 
 * **Platforms**:
-PC / Mac / Linux / Ouya
+Steam / PC / Mac / Linux / Ouya
 
 
 * **Website**:
-http://www.pixeljam.com/potatoman
-
+[SeekTheTroof.com](//seekthetroof.com)
 
 * **Price**:
 USD 3.00
@@ -97,8 +95,16 @@ USD 3.00
 * **Press Contact**:
 press@pixeljam.com
 
-* **Assets**:
-You can download a pack (.zip) of [logos here](logos.zip) or [screenshots here](screenshots.zip)
+* Purchase Links
+  * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
+  * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
+  * [Fastspring](http://sites.fastspring.com/pixeljam/product/potatoman)
+  * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12)
+  * [Bandcamp (With Soundtrack)](http://pixeljam.bandcamp.com/album/potatoman-game-and-soundtrack)
+  * [Bandcamp (Soundtrack Only)](http://pixeljam.bandcamp.com/album/potatoman-seeks-the-troof-ost)
+
+<!-- * **Assets**:
+You can download a pack (.zip) of [logos here](//logos.zip) or [screenshots here](screenshots.zip) -->
 
 
 
@@ -144,7 +150,7 @@ Trailers   {#trailers}
 
 ### Launch Trailer: Extended Version
 
-[Youtube](http://www.youtube.com/CnAeHNZAbNs) &#124; [Vimeo](//vimeo.com/55823830)
+[Youtube](http://www.youtube.com/OLNNLZEZAuc) &#124; [Vimeo](//vimeo.com/55823830)
 
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/OLNNLZEZAuc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
