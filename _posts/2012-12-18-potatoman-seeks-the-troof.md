@@ -109,9 +109,9 @@ Description  {#description}
 
 {% include images.md param="image2" %}
 
-In a world where the Troof is an unanswered question, Potatoman quests through the riddle. Through desert wastelands, thick forests, and dystopian cities, nothing is what it seems. With only his wits, his jump, and a question, Potatoman must potato forth through quirky and challenging platforming puzzles!
+In a world where the Troof is an unanswered question, Potatoman quests through the riddle. Through desert wastelands, thick forests, and dystopian cities: nothing is what it seems. With only his wits, his jump, and a question, Potatoman must potato forth through quirky and challenging platforming puzzles!
 
-Jump, run, and engage in humorous potatosophical debate as your avatar dies a thousand deaths... encounter spud-shredding baddies and quick platformer pacing in this new Pixeljam release. Dont end up a potato pancake... go forward and seek the Troof!
+Jump, run, and engage in humorous potatosophical debate as your avatar dies a thousand deaths... encounter spud-shredding baddies and quick platformer pacing in this new Pixeljam release. Don't end up a potato pancake... go forward and seek the Troof!
 
 
 
@@ -128,20 +128,13 @@ Features   {#features}
 
 
 
-History   {#history}
---------
-Starting out as a solo game jam from Miles Tilmann, the team quickly fell in love with the little guy.
-
-
-
-
 Future Plans
 ------------
 
 {% include images.md param="image4" %}
 
 
-Potatoman is being developed for multiple platforms and eventually will be able to be played on the face of the moon when it is full.
+Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for Steam, iOS, and Android too.
 
 
 
@@ -153,13 +146,13 @@ Trailers   {#trailers}
 
 [Youtube](http://www.youtube.com/CnAeHNZAbNs) &#124; [Vimeo](//vimeo.com/55823830)
 
-<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/CnAeHNZAbNs" frameborder="0" allowfullscreen></iframe>
+<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/OLNNLZEZAuc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Gameplay Footage
 
 [Youtube](//www.youtube.com/SFh_d2GqyLw)
 
-<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/SFh_d2GqyLw" frameborder="0" allowfullscreen></iframe>
+<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/SFh_d2GqyLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Launch Trailer (Short)
 
@@ -188,8 +181,7 @@ Quotes   {#quotes}
 {% include images.md param="image5" %}
 
 
-> Potatoman will delight, surprise, and challenge you. I had so much fun playing through his little adventure,
-and I know I'll replay it many times in the future. And the ending is amazing! Definitely play all the way to the end.
+> Potatoman will delight, surprise, and challenge you. I had so much fun playing through his little adventure, and I know I'll replay it many times in the future. And the ending is amazing! Definitely play all the way to the end.
 
 > > *-James Kochalka*, [American Elf](http://americanelf.com/)
 
@@ -227,10 +219,10 @@ Screenshots {#screenshots}
 [![Screenshot 2]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
 [![Screenshot 3]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
 [![Screenshot 4]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
-[![Screenshot 5]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_Screen5.png){:.lightbox}
-[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_Screen5.png){:.lightbox}
-[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_Screen5.png){:.lightbox}
-[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen5.png)]({{site.baseurl}}/images/potatoman/PM_Screen5.png){:.lightbox}
+[![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
+[![Screenshot 7]({{site.baseurl}}/images/potatoman/troof-screenshot-l501.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-l501.png){:.lightbox}
+[![Screenshot 8]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png){:.lightbox}
 
 
 
