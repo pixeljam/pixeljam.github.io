@@ -11,7 +11,7 @@ colors:
   separator: "rgba(255,138,14,1)"
   nav: "rgba(255,145,72,.9)"
   overview: "rgba(223,89,52,1)"
-description: "This will go into the header for SEO purposes. "
+description: "Potatoman Seeks the Troof is a Potatosophical Punishment Platforming Adventure for Mac, PC, Linux, Ouya. Coming soon to Steam, iOS and Android"
 imageFolder: "potatoman/"
 image:
   feature: feature-potatoman.svg
@@ -216,13 +216,13 @@ Screenshots {#screenshots}
 <div class="grid screenshots" markdown="1">
 
 [![Screenshot 1]({{site.baseurl}}/images/potatoman/troof-screenshot-mountain.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-mountain.png){:.lightbox}
-[![Screenshot 2]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
-[![Screenshot 3]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
-[![Screenshot 4]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
-[![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
-[![Screenshot 6]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
-[![Screenshot 7]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png){:.lightbox}
-[![Screenshot 8]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png){:.lightbox}
+[![Screenshot 2]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
+[![Screenshot 3]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
+[![Screenshot 4]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png){:.lightbox}
+[![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
+[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
+[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
 
 
 
