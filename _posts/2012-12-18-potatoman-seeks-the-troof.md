@@ -60,10 +60,15 @@ Potatoman Seeks the Troof Press Kit  {#presskit-title}
 =========================
 {:.no_toc}
 
-You have arrived at the Potatoman Seeks the Troof Press Page. Here you should find any info you might need to post articles or get more informed about Potatoman and his adventure. If there's any other information you need, or would like it in a different format, let us know and we'll make it available.
 
+Description  {#description}
+------------
 
+{% include images.md param="image2" %}
 
+In a world where the Troof is an unanswered question, Potatoman quests through the riddle. Through desert wastelands, thick forests, and dystopian cities: nothing is what it seems. With only his wits, his jump, and a question, Potatoman must potato forth through quirky and challenging platforming puzzles!
+
+Jump, run, and engage in humorous potatosophical debate as your avatar dies a thousand deaths... encounter spud-shredding baddies and quick platformer pacing in this new Pixeljam release. Don't end up a potato pancake... go forward and seek the Troof!
 
  Fact Sheet {#factsheet}
 ------------
@@ -79,7 +84,7 @@ Pixeljam
    * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12) -->
 
 * **Release Date**:
-December 18th, 2012
+December 3rd, 2014 Major Update Release (Original Release Date December 18th, 2012)
 
 
 * **Platforms**:
@@ -90,13 +95,14 @@ Steam / PC / Mac / Linux / Ouya
 [SeekTheTroof.com](//seekthetroof.com)
 
 * **Price**:
-USD 3.00
+USD 3.99
 
 * **Press Contact**:
 press@pixeljam.com
 
 * Purchase Links
   * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
+  * [Steam](http://store.steampowered.com/app/328500/)
   * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
   * [Fastspring](http://sites.fastspring.com/pixeljam/product/potatoman)
   * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12)
@@ -110,14 +116,6 @@ You can download a pack (.zip) of [logos here](//logos.zip) or [screenshots here
 
 
 
-Description  {#description}
-------------
-
-{% include images.md param="image2" %}
-
-In a world where the Troof is an unanswered question, Potatoman quests through the riddle. Through desert wastelands, thick forests, and dystopian cities: nothing is what it seems. With only his wits, his jump, and a question, Potatoman must potato forth through quirky and challenging platforming puzzles!
-
-Jump, run, and engage in humorous potatosophical debate as your avatar dies a thousand deaths... encounter spud-shredding baddies and quick platformer pacing in this new Pixeljam release. Don't end up a potato pancake... go forward and seek the Troof!
 
 
 
@@ -221,14 +219,14 @@ Screenshots {#screenshots}
 
 <div class="grid screenshots" markdown="1">
 
-[![Screenshot 1]({{site.baseurl}}/images/potatoman/troof-screenshot-mountain.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-mountain.png){:.lightbox}
+[![Screenshot 1]({{site.baseurl}}/images/potatoman/troof-screenshot-l501.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-l501.png){:.lightbox}
 [![Screenshot 2]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
 [![Screenshot 3]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
-[![Screenshot 4]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png){:.lightbox}
-[![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-title01.png){:.lightbox}
-[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
-[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
-[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
+[![Screenshot 4]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png){:.lightbox}
+<!-- [![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png){:.lightbox} -->
+<!-- [![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox} -->
+<!-- [![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox} -->
+<!-- [![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox} -->
 
 
 
