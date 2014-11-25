@@ -101,8 +101,8 @@ USD 3.99
 press@pixeljam.com
 
 * Purchase Links
-  * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
   * [Steam](http://store.steampowered.com/app/328500/)
+  * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
   * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
   * [Fastspring](http://sites.fastspring.com/pixeljam/product/potatoman)
   * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12)
