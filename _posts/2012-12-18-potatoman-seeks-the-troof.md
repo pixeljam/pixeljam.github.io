@@ -155,6 +155,7 @@ Trailers   {#trailers}
 ### Launch Trailer: Extended Version
 
 [Youtube](http://www.youtube.com/watch?v=3UrJSs6FyIM) &#124; [Vimeo](//vimeo.com/55823830)
+
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/3UrJSs6FyIM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### Gameplay Footage
