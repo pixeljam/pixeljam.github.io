@@ -14,7 +14,7 @@ colors:
 description: "Potatoman Seeks the Troof is a Potatosophical Punishment Platforming Adventure for Mac, PC, Linux, Ouya. Coming soon to Steam, iOS and Android"
 imageFolder: "potatoman/"
 image:
-  feature: feature-potatoman.svg
+  feature: feature-potatoman.png
 postImages:
 #These are the in-document images, not including the image-specific sections like screenshots, logos, key art, et cetera
 #All of these next fields are important, either enter all fields for each number image, or remove that image number altogether
@@ -138,7 +138,7 @@ Future Plans
 {% include images.md param="image4" %}
 
 
-Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for Steam, iOS, and Android too.
+Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for iOS and Android too.
 
 
 
@@ -148,13 +148,18 @@ Trailers   {#trailers}
 
 ### Launch Trailer: Extended Version
 
-[Youtube](http://www.youtube.com/OLNNLZEZAuc) &#124; [Vimeo](//vimeo.com/55823830)
+[Youtube](http://www.youtube.com/watch?v=OLNNLZEZAuc) &#124;
 
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/OLNNLZEZAuc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Launch Trailer: Extended Version
+
+[Youtube](http://www.youtube.com/watch?v=3UrJSs6FyIM) &#124; [Vimeo](//vimeo.com/55823830)
+<iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/3UrJSs6FyIM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### Gameplay Footage
 
-[Youtube](//www.youtube.com/SFh_d2GqyLw)
+[Youtube](//www.youtube.com/watch?v=SFh_d2GqyLw)
 
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/SFh_d2GqyLw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -236,7 +241,7 @@ Screenshots {#screenshots}
 
 
 
-Logos   {#logo}
+Logos & Key Art   {#logo}
 ---------
 
 {::comment} This next two lines (including the return) is important keep it for all image sections {:/comment}
