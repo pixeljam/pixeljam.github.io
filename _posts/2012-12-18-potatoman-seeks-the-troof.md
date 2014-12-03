@@ -146,7 +146,7 @@ Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will
 Trailers   {#trailers}
 --------
 
-### Launch Trailer: Extended Version
+### Steam Launch Trailer
 
 [Youtube](http://www.youtube.com/watch?v=3UrJSs6FyIM) &#124; [Vimeo](//vimeo.com/55823830)
 
