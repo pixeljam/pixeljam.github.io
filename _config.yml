@@ -15,6 +15,8 @@ company: "Pixeljam Games"
 # Build settings
 markdown: kramdown
 permalink: /:title/
+gems:
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: false
