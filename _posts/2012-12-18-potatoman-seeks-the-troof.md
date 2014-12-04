@@ -24,28 +24,28 @@ postImages:
 #Please maintain the first space before the image titles. Thanks.
 
 #First image
-  image1-title: "Potatoman Screenshot 1"
-  image1-url: "/PM_Screen1.png"
+  image1-title: "Potatoman Screenshot 1 - Forest"
+  image1-url: "troof-screenshot-forest-birds.png"
   image1-position: right
   image1-size: small
 #Second Image
   image2-title: "Potatoman Logo 1"
-  image2-url: "/logo.png"
+  image2-url: "logo.png"
   image2-position: left
   image2-size: medium
 #Third Image
-  image3-title: "Potatoman Screenshot 2"
-  image3-url: "/PM_Screen5.png"
+  image3-title: "Potatoman Screenshot 2 - Mountain"
+  image3-url: "troof-screenshot-mountain.png"
   image3-position: right
   image3-size: small
 #Fourth Image
   image4-title: "Potatoman Screenshot 3"
-  image4-url:  "/images/PM_Screen4.png"
+  image4-url:  "troof-screenshot-l501.png"
   image4-position: right
   image4-size: small
 #Fifth Image
   image5-title: "Potatoman Screenshot 4"
-  image5-url: "/images/PM_Screen3.png"
+  image5-url: "troof-screenshot-city.png"
   image5-position: left
   image5-size: small
 
