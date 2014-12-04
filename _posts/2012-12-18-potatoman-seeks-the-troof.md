@@ -1,10 +1,11 @@
 ---
-redirect_from:
-- "/press/sheet.php?p=potatoman"
-- "/press/sheet.php?p=Potatoman%20Seeks%20the%20Troof"
 layout: post
 type: presskit
 title:  "Potatoman Seeks the Troof Press Kit - Platforming Adventure for Ouya / Mac / PC / Linux"
+redirect_from:
+- "/press/sheet.php?p=potatoman"
+- "/press/sheet.php?p=Potatoman%20Seeks%20the%20Troof"
+- /press/sheet.php?p=Potatoman%20Seeks%20the%20Troof
 date:   2014-03-18 16:01:57
 press: 'yes'
 tags: game
