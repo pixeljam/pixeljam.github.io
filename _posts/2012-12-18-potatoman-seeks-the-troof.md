@@ -1,7 +1,7 @@
 ---
 layout: post
 type: presskit
-title:  "Potatoman Seeks the Troof Press Kit - Platforming Adventure for Ouya / Mac / PC / Linux"
+title:  "Potatoman Seeks the Troof - A Potatosophical Platforming Adventure"
 redirect_from:
 - "/press/sheet.php?p=potatoman"
 - "/press/sheet.php?p=Potatoman%20Seeks%20the%20Troof"
@@ -15,7 +15,7 @@ colors:
   separator: "rgba(255,138,14,1)"
   nav: "rgba(255,145,72,.9)"
   overview: "rgba(223,89,52,1)"
-description: "Potatoman Seeks the Troof is a Potatosophical Punishment Platforming Adventure for Mac, PC, Linux, Ouya. Coming soon to Steam, iOS and Android"
+description: "Potatoman Seeks the Troof is a Challenging Potatosophical Platforming Adventure for Mac, PC, and iOS"
 imageFolder: "potatoman/"
 image:
   feature: feature-potatoman.png
@@ -88,23 +88,24 @@ Pixeljam
    * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12) -->
 
 * **Release Date**:
-December 3rd, 2014 Major Update Release (Original Release Date December 18th, 2012)
+iOS: January 2015, STEAM: December 3rd, 2014, Original: December 18th, 2012)
 
 
 * **Platforms**:
-Steam / PC / Mac / Linux / Ouya
+Steam / PC / Mac / Ouya / iOS
 
 
 * **Website**:
 [SeekTheTroof.com](//seekthetroof.com)
 
 * **Price**:
-USD 3.99
+3.99 on Steam, 1.99 on iOS, 2.99 on OUYA
 
 * **Press Contact**:
-press@pixeljam.com
+miles@pixeljam.com
 
 * Purchase Links
+  * [iOS](https://itunes.apple.com/us/app/potatoman-seeks-the-troof/id954585437)
   * [Steam](http://store.steampowered.com/app/328500/)
   * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
   * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
@@ -142,7 +143,7 @@ Future Plans
 {% include images.md param="image4" %}
 
 
-Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for iOS and Android too.
+Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for Android too.
 
 
 
@@ -234,10 +235,10 @@ Screenshots {#screenshots}
 [![Screenshot 2]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
 [![Screenshot 3]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
 [![Screenshot 4]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png){:.lightbox}
-<!-- [![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-birds.png){:.lightbox} -->
-<!-- [![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox} -->
-<!-- [![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox} -->
-<!-- [![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox} -->
+[![Screenshot 5]({{site.baseurl}}/images/potatoman/PM_Screen1.png)]({{site.baseurl}}/images/potatoman/PM_Screen1.pngg){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
+[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
+[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
 
 
 
