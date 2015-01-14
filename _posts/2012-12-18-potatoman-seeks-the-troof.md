@@ -1,7 +1,7 @@
 ---
 layout: post
 type: presskit
-title:  "Potatoman Seeks the Troof Press Kit - Platforming Adventure for Ouya / Mac / PC / Linux"
+title:  "Potatoman Seeks the Troof Press Kit - Potatosophical Platforming Adventure for Ouya / Mac / PC / iOS"
 redirect_from:
 - "/press/sheet.php?p=potatoman"
 - "/press/sheet.php?p=Potatoman%20Seeks%20the%20Troof"
@@ -15,7 +15,7 @@ colors:
   separator: "rgba(255,138,14,1)"
   nav: "rgba(255,145,72,.9)"
   overview: "rgba(223,89,52,1)"
-description: "Potatoman Seeks the Troof is a Potatosophical Punishment Platforming Adventure for Mac, PC, Linux, Ouya. Coming soon to Steam, iOS and Android"
+description: "Potatoman Seeks the Troof is a Challenging Potatosophical Platforming Adventure for Mac, PC, Ouya and iOS. Coming soon to Android"
 imageFolder: "potatoman/"
 image:
   feature: feature-potatoman.png
@@ -88,23 +88,34 @@ Pixeljam
    * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12) -->
 
 * **Release Date**:
-December 3rd, 2014 Major Update Release (Original Release Date December 18th, 2012)
+  iOS: January 2015
+
+  STEAM: December 3rd, 2014
+
+  Original Release: December 18th, 2012)
 
 
 * **Platforms**:
-Steam / PC / Mac / Linux / Ouya
+Steam / PC / Mac / Ouya / iOS
 
 
 * **Website**:
 [SeekTheTroof.com](//seekthetroof.com)
 
+
 * **Price**:
-USD 3.99
+  STEAM: USD 3.99
+
+  iOS: USD 1.99
+
+  OUYA: USD 2.99
+
 
 * **Press Contact**:
 press@pixeljam.com
 
 * Purchase Links
+  * [iOS](https://itunes.apple.com/us/app/potatoman-seeks-the-troof/id954585437)
   * [Steam](http://store.steampowered.com/app/328500/)
   * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
   * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
@@ -142,7 +153,7 @@ Future Plans
 {% include images.md param="image4" %}
 
 
-Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for iOS and Android too.
+Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will see him by the ocean, in a tree, with Batman (?). Oh yeah, Potatoman is being developed for Android too.
 
 
 
