@@ -234,10 +234,13 @@ Screenshots {#screenshots}
 [![Screenshot 2]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-city.png){:.lightbox}
 [![Screenshot 3]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-owl.png){:.lightbox}
 [![Screenshot 4]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png)]({{site.baseurl}}/images/potatoman/troof-screenshot-desert.png){:.lightbox}
-[![Screenshot 5]({{site.baseurl}}/images/potatoman/PM_Screen1.png)]({{site.baseurl}}/images/potatoman/PM_Screen1.pngg){:.lightbox}
-[![Screenshot 6]({{site.baseurl}}/images/potatoman/PM_Screen2.png)]({{site.baseurl}}/images/potatoman/PM_Screen2.png){:.lightbox}
-[![Screenshot 7]({{site.baseurl}}/images/potatoman/PM_Screen3.png)]({{site.baseurl}}/images/potatoman/PM_Screen3.png){:.lightbox}
-[![Screenshot 8]({{site.baseurl}}/images/potatoman/PM_Screen4.png)]({{site.baseurl}}/images/potatoman/PM_Screen4.png){:.lightbox}
+[![Screenshot 5]({{site.baseurl}}/images/potatoman/troof-screenshot-city-fog.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-city-fog.jpg){:.lightbox}
+[![Screenshot 6]({{site.baseurl}}/images/potatoman/troof-screenshot-desert-night.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-desert-night.jpg){:.lightbox}
+[![Screenshot 7]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-daytime.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-daytime.jpg){:.lightbox}
+[![Screenshot 8]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-fall.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-forest-fall.jpg){:.lightbox}
+[![Screenshot 9]({{site.baseurl}}/images/potatoman/troof-screenshot-l502.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-l502.jpg){:.lightbox}
+[![Screenshot 10]({{site.baseurl}}/images/potatoman/troof-screenshot-planet-orange.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-planet-orange.jpg){:.lightbox}
+[![Screenshot 11]({{site.baseurl}}/images/potatoman/troof-screenshot-snake.jpg)]({{site.baseurl}}/images/potatoman/troof-screenshot-snake.jpg){:.lightbox}
 
 
 
