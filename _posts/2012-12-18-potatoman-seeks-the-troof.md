@@ -93,7 +93,7 @@ Pixeljam
 
   * STEAM: December 3rd, 2014
 
-  Original Release: December 18th, 2012)
+  Original Release: December 18th, 2012
 
 
 * **Platforms**:
@@ -117,7 +117,7 @@ Steam / PC / Mac / Ouya / iOS
 press@pixeljam.com
 
 * Purchase Links
-  * [iOS](https://itunes.apple.com/us/app/potatoman-seeks-the-troof/id954585437)
+  * [iOS](https://itunes.apple.com/app/potatoman-seeks-the-troof/id954585437)
   * [Steam](http://store.steampowered.com/app/328500/)
   * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
   * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
@@ -163,9 +163,9 @@ Potatoman can be seen in many places as he seeks for the TROOF, perhaps you will
 Trailers   {#trailers}
 --------
 
-### Steam Launch Trailer
+### Steam / iOS Launch Trailer
 
-[Youtube](http://www.youtube.com/watch?v=3UrJSs6FyIM)
+[Youtube](https://www.youtube.com/watch?v=UzQBonbZU7w)
 
 <iframe class="thevideo" width="560" height="315" src="//www.youtube.com/embed/3UrJSs6FyIM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
