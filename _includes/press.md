@@ -6,9 +6,9 @@ Please send us an email at press@pixeljam.com and we will send you over a copy; 
 
 <br />
 
-<form method="POST" action="//forms.brace.io/press@pixeljam.com">
-  <div class="pressCopy">
+<form method="POST" action="//formspree.io/press@pixeljam.com">
 
+  <div class="pressCopy">
     <label for="Name">
     <span>Publication Name:</span>
           <input type="text" placeholder="Your Publication" name="name">
@@ -25,7 +25,7 @@ Please send us an email at press@pixeljam.com and we will send you over a copy; 
           <span>Add To The Pixeljam Mailing List?</span>
           <input name="pick" type="checkbox" id="inlineCheckbox1" value="Add Me To Mailing List - Yes!">
     </label>
-
+    
   </div>
 
   <input type="hidden" name="_next" value="//pixeljam.com/press-copy-request-thank-you.html" />
