@@ -79,20 +79,17 @@ Pixeljam
 * **Website**:
 [http://glorkianwarrior.com](http://glorkianwarrior.com)
 
-* **Game Pages**:
-  * [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=262452651)
-  * [Glorkian Academy](http://glorkianwarrior.com)
-  * [App Store](http://itunes.apple.com/app/id816399139)
-
 * **Purchase Links**:
-  * [Mac, PC](http://glorkianwarrior.com)
+  * [Steam (Mac, PC)](http://store.steampowered.com/app/341120/)
   * [App Store](http://itunes.apple.com/app/id816399139)
+  * [Google Play] (https://play.google.com/store/apps/details?id=com.noodlecake.glorkianwarrior)
+  * [Amazon App Store] (http://www.amazon.com/gp/mas/dl/android?p=air.com.noodlecake.trialsOfGlork)
 
 * **Release Date**:
-November 12th, 2014 (Mac / PC); March 13th, 2014 (iPhone, iPad, iPod Touch)
+March 24th, 2015 (Steam); March 12th 2015 (Android); March 13th, 2014 (iPhone, iPad, iPod Touch)
 
 * **Platforms**:
-Mac, PC, iPad, iPhone, iPod Touch
+Mac, PC, Android, iPad, iPhone, iPod Touch
 
 * **Price**:
 USD 3.99 (Mac/PC), Mobile (2.99)
