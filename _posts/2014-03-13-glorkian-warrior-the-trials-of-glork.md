@@ -82,8 +82,8 @@ Pixeljam
 * **Purchase Links**:
   * [Steam (Mac, PC)](http://store.steampowered.com/app/341120/)
   * [App Store](http://itunes.apple.com/app/id816399139)
-  * [Google Play] (https://play.google.com/store/apps/details?id=com.noodlecake.glorkianwarrior)
-  * [Amazon App Store] (http://www.amazon.com/gp/mas/dl/android?p=air.com.noodlecake.trialsOfGlork)
+  * [Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.glorkianwarrior)
+  * [Amazon App Store](http://www.amazon.com/gp/mas/dl/android?p=air.com.noodlecake.trialsOfGlork)
 
 * **Release Date**:
 March 24th, 2015 (Steam); March 12th 2015 (Android); March 13th, 2014 (iPhone, iPad, iPod Touch)
