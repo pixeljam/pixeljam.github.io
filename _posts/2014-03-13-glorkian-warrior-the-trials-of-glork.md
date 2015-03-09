@@ -147,12 +147,12 @@ After all these experiments, iterations and trials, we presented the Glorkian Un
 
 
 
-Future Plans
-------------
+<!--Future Plans-->
+<!---------------->
 
-Pixeljam is working with Noodlecake Games to release the Android version.
+<!--Pixeljam is working with Noodlecake Games to release the Android version.-->
 
-We presently have no plans to bring Glorkian Warrior to any other platforms or consoles.
+<!--We presently have no plans to bring Glorkian Warrior to any other platforms or consoles.-->
 
 
 
