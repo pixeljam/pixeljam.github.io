@@ -2,7 +2,7 @@
 
 Request a Copy {#additional}
 ----------------------
-Please send us an email at press@pixeljam.com and we will send you over a copy; or fill out this nifty form:
+Please send us an email at press@example.com and we will send you over a copy; or fill out this nifty form:
 
 <br />
 
