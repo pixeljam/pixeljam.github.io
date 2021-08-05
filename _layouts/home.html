@@ -4,31 +4,28 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include head.html %}
+    {% include head.html %}
 </head>
 <body>
-{% include browser-upgrade.html %}
+    {% include browser-upgrade.html %}
 
-{% include nav.html %}
-{% include header.html %}
+    {% include nav.html %}
+    {% include header.html %}
 
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
+    <div id="drawer" markdown="1">
+        *  Auto generated table of contents
+        {:toc}
+    </div>
 
-{% for post in site.tags.company %}
+    {% for post in site.tags.company %}
+        <span class="post-link">{{ post.content }}</span>
+    {% endfor %}
 
-    <span class="post-link">{{ post.content }}</span>
+    <div class="content">
+        {{ content }}
+    </div>
 
-{% endfor %}
+    {% include footer.html %}
 
-<div class="content">
-      {{ content }}
-</div>
-
-
-{% include footer.html %}
-
-    </body>
+</body>
 </html>
