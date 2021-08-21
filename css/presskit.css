@@ -16,30 +16,33 @@ body {
   font-family: 'Lato',sans-serif;
   font-weight:400;
 }
-.game-presskit li {list-style-position:inside;list-style-type:circle;}
+.game-presskit li {
+   list-style-type:circle;
+}
+
 #presskit a, #presskit a:visited {color: rgba(43,169,202,1)}
 
 .btn {
-background: rgb(117, 159, 249);
-border: none;
-border-radius: 20px;
-color: #fff;
-box-shadow: 0 6px rgba(0, 0, 0, 0.2);
-cursor: pointer;
-display: block;
-font-family: inherit;
-font-size: inherit;
-font-weight: 700;
-letter-spacing: 1px;
-margin: auto;
-/*max-width:100%;*/
-outline: none;
-padding: .2em 1em;
-position: relative;
-/*text-transform: uppercase;*/
--webkit-transition: none;
--moz-transition: none;
-transition: none;
+   background: rgb(117, 159, 249);
+   border: none;
+   border-radius: 20px;
+   color: #fff;
+   box-shadow: 0 6px rgba(0, 0, 0, 0.2);
+   cursor: pointer;
+   display: block;
+   font-family: inherit;
+   font-size: inherit;
+   font-weight: 700;
+   letter-spacing: 1px;
+   margin: auto;
+   /*max-width:100%;*/
+   outline: none;
+   padding: .2em 1em;
+   position: relative;
+   /*text-transform: uppercase;*/
+   -webkit-transition: none;
+   -moz-transition: none;
+   transition: none;
 }
 
 .btn:hover {
