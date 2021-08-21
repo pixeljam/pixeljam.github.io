@@ -82,8 +82,7 @@ Pixeljam
 * **Purchase Links**:
   * [Steam (Mac, PC)](http://store.steampowered.com/app/341120/)
   * [App Store](http://itunes.apple.com/app/id816399139)
-  * [Google Play](https://play.google.com/store/apps/details?id=com.noodlecake.glorkianwarrior)
-  * [Amazon App Store](http://www.amazon.com/gp/mas/dl/android?p=air.com.noodlecake.trialsOfGlork)
+  * [Google Play](https://play.google.com/store/apps/details?id=gameclub.glorkianwarrior&hl=en_US&gl=US)
 
 * **Release Date**:
 March 24th, 2015 (Steam); March 12th 2015 (Android); March 13th, 2014 (iPhone, iPad, iPod Touch)
@@ -254,13 +253,13 @@ Awards  & Featured {#awards}
 
 {% include images.md param="image4" %}
 
-* Kill Screen Play List 4/2 - *[Kill Screen](http://killscreendaily.com/articles/comic-mayhem-glorkian-warrior-absolute-chaos-heavy-bullets-and-quiet-poignance-alz/)*
+* Kill Screen Play List 4/2 - *[Kill Screen](https://killscreen.com/previously/articles/comic-mayhem-glorkian-warrior-absolute-chaos-heavy-bullets-and-quiet-poignance-alz/)*
 * IndieGames.com Mobile Pick - *[IndieGames](http://indiegames.com/2014/03/glorkian_warrior_trials_of_glo.html)*
 * Featured March 2014 - *Apple App Store*
 * Game of the Week - *[Touch Arcade](http://toucharcade.com/2014/03/14/game-of-the-week-glorkian-warrior/)*
 * 5/5 Stars - *[Cult of Mac](http://www.cultofmac.com/270001/glorkian-warrior-trials-glork-review/)*
 * 4/5  - *[Touch Arcade](http://toucharcade.com/2014/03/14/glorkian-warrior-trials-of-glork-review/)*
-* IndieCade E3 Indie Showcase - *[IndieCade](http://www.indiecade.com/2014/e3_showcase/glorkian-warrior-the-trials-of-glork/)*
+* IndieCade E3 Indie Showcase - *[IndieCade](https://hardcoregamer.com/features/articles/e3-2014-indiecade-and-the-endless-sea-of-all-the-things/90317/)*
 
 
 
@@ -304,7 +303,7 @@ You can find the book, Glorkian Warrior Delivers a Pizza, at any of these retail
 
 * [Amazon](http://www.amazon.com/gp/product/1626721033/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1626721033&linkCode=as2&tag=amerelf-20)
 
-* [Barnes & Noble](http://www.barnesandnoble.com/w/the-glorkian-warrior-delivers-a-pizza-james-kochalka/1115382435?ean=9781626721036)
+* [Barnes & Noble](https://www.barnesandnoble.com/s/Glorkian%20Warrior)
 
 * [IndieBound](http://www.indiebound.org/book/9781596439177)
 

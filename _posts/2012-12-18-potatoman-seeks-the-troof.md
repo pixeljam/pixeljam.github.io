@@ -120,7 +120,6 @@ press@pixeljam.com
   * [iOS](https://itunes.apple.com/app/potatoman-seeks-the-troof/id954585437)
   * [Steam](http://store.steampowered.com/app/328500/)
   * [Humble Store](https://www.humblebundle.com/store/p/potatomanseeksthetroof_storefront)
-  * [Ouya](https://www.ouya.tv/game/Potato-Man-Seeks-the-Troof/)
   * [Fastspring](http://sites.fastspring.com/pixeljam/product/potatoman)
   * [Mac App Store](http://itunes.apple.com/us/app/potatoman-seeks-the-troof/id593593154?mt=12)
   * [Bandcamp (With Soundtrack)](http://pixeljam.bandcamp.com/album/potatoman-game-and-soundtrack)
@@ -226,7 +225,7 @@ Quotes   {#quotes}
 
 >...the conclusion is beautiful in its use of game mechanics to make the player feel a loss of ability. By making old obstacles suddenly seem impossible, it shows the player what it feels like to surrender oneself to encroaching inevitability, to just give up and embrace what’s coming.
 
-> > *-Travis Pynenburg*, [Pure Sophistry](http://www.puresophistry.com/2013/01/28/potatoman-sought-the-troof-i-didnt-get-it/)
+> > *-Travis Pynenburg*, Pure Sophistry
 
 
 >Potatoman has the Best jump in the history of video games, seriously.
@@ -295,7 +294,7 @@ All the game music, plus 2 bonus tracks.
 
 An interview with Miles Tilmann
 
-[http://www.joystiq.com/2013/01/16/the-joystiq-indie-pitch-potatoman-seeks-the-troof](http://www.joystiq.com/2013/01/16/the-joystiq-indie-pitch-potatoman-seeks-the-troof)
+[https://www.engadget.com/2013-01-16-the-joystiq-indie-pitch-potatoman-seeks-the-troof.html](https://www.engadget.com/2013-01-16-the-joystiq-indie-pitch-potatoman-seeks-the-troof.html)
 
 
 
